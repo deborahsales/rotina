@@ -1,16 +1,16 @@
 import React,{useState,useEffect,useRef,Component} from 'react';
-import {LayoutDashboard,CalendarDays,Utensils,CheckSquare,Repeat2,Target,BookOpen,HeartPulse,House,Printer,Armchair,ChartNoAxesCombined,Settings,Menu,LogOut,ArrowRight,Leaf,Sun,Mail,LockKeyhole,LoaderCircle,CloudCheck,CloudOff,RefreshCw,Plus,X} from 'lucide-react';
+import {LayoutDashboard,CalendarDays,Utensils,CheckSquare,Repeat2,Target,BookOpen,HeartPulse,House,Printer,Armchair,ChartNoAxesCombined,Settings,Menu,LogOut,ArrowRight,Leaf,Sun,Mail,LockKeyhole,LoaderCircle,CloudCheck,CloudOff,RefreshCw,Plus,X,Dumbbell,Award} from 'lucide-react';
 import {supabase,SUPABASE_URL,SUPABASE_KEY} from './lib/supabase.js';
 import {RoutineProvider,useRoutine} from './store.jsx';
 import {Brand,Button,IconButton,Onboarding,TaskForm} from './components.jsx';
-import {dateKey,fmtDate,waterTotal,DEFAULT_SETTINGS,minutes} from './lib/domain.js';
-import {TodayPage,WeekPage,TasksPage,HabitsPage,GoalsPage,StudyPage,WellbeingPage,AtelierPage,LeisurePage,ReviewPage,SettingsPage} from './pages.jsx';
+import {dateKey,fmtDate,waterTotal,DEFAULT_SETTINGS,minutes,waterGoalForDate} from './lib/domain.js';
+import {TodayPage,WeekPage,TasksPage,HabitsPage,GoalsPage,StudyPage,WellbeingPage,AtelierPage,LeisurePage,ReviewPage,SettingsPage,MovementPage,MedalsPage} from './pages.jsx';
 import FoodPage from './food.jsx';
 const NAV=[
  {group:'SEU DIA',items:[['today','Meu dia',LayoutDashboard],['week','Minha semana',CalendarDays],['tasks','Tarefas',CheckSquare]]},
- {group:'CUIDAR DE VOCÊ',items:[['food','Alimentação',Utensils],['habits','Hábitos',Repeat2],['wellbeing','Corpo e descanso',HeartPulse]]},
+ {group:'CUIDAR DE VOCÊ',items:[['food','Alimentação',Utensils],['movement','Exercícios',Dumbbell],['habits','Hábitos',Repeat2],['wellbeing','Corpo e descanso',HeartPulse]]},
  {group:'O QUE IMPORTA',items:[['goals','Objetivos',Target],['study','Estudos e foco',BookOpen],['home','Casa',House],['atelier','Ateliê 3D',Printer],['leisure','Lazer e hobbies',Armchair]]},
- {group:'OLHAR COM CALMA',items:[['review','Minha evolução',ChartNoAxesCombined],['settings','Preferências',Settings]]}
+ {group:'OLHAR COM CALMA',items:[['medals','Minhas medalhas',Award],['review','Minha evolução',ChartNoAxesCombined],['settings','Preferências',Settings]]}
 ];
 const validPages=NAV.flatMap(g=>g.items.map(i=>i[0]));
 function translateError(error) {
@@ -63,13 +63,13 @@ function Shell(){
  const water=waterTotal(entries,today),last=entries.filter(e=>e.type==='water'&&e.entry_date===today).at(-1);
  const localTime=new Intl.DateTimeFormat('en-GB',{timeZone:settings.timezone,hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(now));
  const lastWaterTime=last?new Date(last.created_at).getTime():openedAt.current;
- const remind=profile?.settings?.reminders&&!reminderDismissed&&water<settings.waterGoal&&minutes(localTime)>=minutes(settings.wakeTime)&&minutes(localTime)<minutes(settings.bedTime)&&(now-lastWaterTime)/60000>Number(settings.waterInterval);
+ const remind=profile?.settings?.reminders&&!reminderDismissed&&water<waterGoalForDate(settings,today)&&minutes(localTime)>=minutes(settings.wakeTime)&&minutes(localTime)<minutes(settings.bedTime)&&(now-lastWaterTime)/60000>Number(settings.waterInterval);
  useEffect(()=>{setReminderDismissed(false);},[last?.id,today]);
  if(loading)return <div className="loading-page"><Brand/><LoaderCircle className="spin"/><p>Preparando seu espaço…</p></div>;
  if(error)return <div className="loading-page"><Brand/><h2>Seu espaço está guardado.</h2><p>{error}</p><Button onClick={()=>refresh(true)}><RefreshCw size={16}/>Tentar novamente</Button></div>;
  if(!profile?.initialized)return <Onboarding/>;
  const selected=NAV.flatMap(x=>x.items).find(x=>x[0]===page);
- const pages={today:TodayPage,week:WeekPage,tasks:TasksPage,home:TasksPage,habits:HabitsPage,goals:GoalsPage,study:StudyPage,wellbeing:WellbeingPage,atelier:AtelierPage,leisure:LeisurePage,review:ReviewPage,settings:SettingsPage,food:FoodPage};
+ const pages={today:TodayPage,week:WeekPage,tasks:TasksPage,home:TasksPage,habits:HabitsPage,goals:GoalsPage,study:StudyPage,wellbeing:WellbeingPage,atelier:AtelierPage,leisure:LeisurePage,review:ReviewPage,settings:SettingsPage,food:FoodPage,movement:MovementPage,medals:MedalsPage};
  const Page=pages[page]||TodayPage;
  return <div className="app-shell"><a href="#main" className="skip-link">Ir para o conteúdo</a>{drawer&&<button className="drawer-backdrop" onClick={()=>setDrawer(false)} aria-label="Fechar menu"/>}<aside className={'sidebar '+(drawer?'open':'')}><div className="sidebar-brand"><Brand/><IconButton label="Fechar menu" onClick={()=>setDrawer(false)}><X size={19}/></IconButton></div><nav aria-label="Navegação principal">{NAV.map(g=><div className="nav-group" key={g.group}><span className="nav-label">{g.group}</span>{g.items.map(([key,label,Icon])=><button key={key} className={'nav-item '+(page===key?'active':'')} onClick={()=>go(key)} aria-current={page===key?'page':undefined}><Icon size={18}/><span>{label}</span>{page===key&&<i/>}</button>)}</div>)}</nav><div className="sidebar-bottom"><div className="sidebar-quote"><Leaf size={18}/><p>Pequenos passos.<br/><strong>Uma vida mais sua.</strong></p></div><button className="profile-button" onClick={()=>go('settings')}><span className="avatar">{(profile.display_name||'V').slice(0,1).toUpperCase()}</span><span><strong>{profile.display_name}</strong><small>Meu espaço pessoal</small></span><Settings size={16}/></button></div></aside>
  <div className="workspace"><header className="topbar"><div className="topbar-left"><IconButton label="Abrir menu" onClick={()=>setDrawer(true)}><Menu size={21}/></IconButton><span className="breadcrumb">Meu espaço <span>/</span> <strong>{selected?.[1]}</strong></span></div><div className="topbar-right"><span className={'sync-status '+(!online?'offline':'')}>{online?<CloudCheck size={15}/>:<CloudOff size={15}/>}<span>{!online?'Sem conexão':pending?'Salvando…':'Sincronizado'}</span></span><IconButton label="Atualizar registros" disabled={!!pending} onClick={()=>refresh()}><RefreshCw size={16}/></IconButton><span className="today-badge">{fmtDate(today,{day:'numeric',month:'short'})}</span></div></header>

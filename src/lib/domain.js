@@ -28,6 +28,30 @@ export const num = (n,max=1) => Math.min(max,Math.max(0,Number(n)||0));
 export const safeURL = value => { try { const u=new URL(value);return ['https:','http:'].includes(u.protocol)?u.href:''; } catch {return '';} };
 export const recordsOf = (entries,type,date) => entries.filter(e=>e.type===type&&(date===undefined||e.entry_date===date));
 export const waterTotal = (entries,date) => recordsOf(entries,'water',date).reduce((s,e)=>s+Number(e.data.ml||0),0);
+export function datedValue(history,date,fallback={}) {
+  return [...(history||[])].filter(x=>x.from<=date).sort((a,b)=>a.from.localeCompare(b.from)).at(-1)||fallback;
+}
+export function putDatedValue(history,from,value,baseline=null) {
+  const old=history?.length?history:baseline?[{from:'0001-01-01',...baseline}]:[];
+  return [...old.filter(x=>x.from!==from),{from,...value}].sort((a,b)=>a.from.localeCompare(b.from));
+}
+export function waterGoalForDate(settings,date) {
+  if(typeof settings==='number')return settings;
+  return Number(datedValue(settings?.waterGoalHistory,date,{goal:settings?.waterGoal||DEFAULT_SETTINGS.waterGoal}).goal);
+}
+// Planned movement is saved in the existing unique block/day record, atomically.
+export function activityRecords(entries,date) {
+  return [...recordsOf(entries,'activity',date),...recordsOf(entries,'block_log',date).filter(e=>e.data.activity).map(e=>({...e,data:{...e.data.activity,planId:e.data.blockId}}))]
+    .filter(e=>e.entry_date&&Number.isFinite(Number(e.data.minutes))&&Number(e.data.minutes)>0)
+    .sort((a,b)=>a.entry_date.localeCompare(b.entry_date)||(a.created_at||'').localeCompare(b.created_at||''));
+}
+export function blockDataForDate(record,date) {
+  const data=record.data;
+  if(data.startDate&&date<data.startDate)return null;
+  if(data.endDate&&date>data.endDate)return null;
+  const current={...data,...datedValue(data.scheduleHistory,date)};
+  return current.active===false||!(current.days||[]).includes(parseDay(date).getDay())?null:current;
+}
 export function habitDue(habit, date) {
   const history=habit.data.scheduleHistory?.filter(s=>s.from<=date).sort((a,b)=>a.from.localeCompare(b.from));
   const days=history?.at(-1)?.days||habit.data.days||[0,1,2,3,4,5,6];
@@ -53,8 +77,8 @@ export function blocksForDate(entries, date, settings) {
     if(endLunch<minutes(s.workEnd))blocks.push({id:'work-pm',title:'Trabalho · home office',area:'Trabalho',start:endLunch,end:minutes(s.workEnd),fixed:true});
   }
   for(const e of recordsOf(entries,'block')) {
-    if(e.data.active===false||!(e.data.days||[]).includes(day))continue;
-    blocks.push({...e.data,id:e.id,start:minutes(e.data.start),end:minutes(e.data.end),record:e});
+    const data=blockDataForDate(e,date);if(!data)continue;
+    blocks.push({...data,id:e.id,start:minutes(data.start),end:minutes(data.end),record:e});
   }
   for(const e of recordsOf(entries,'task',date)) if(!e.data.done&&e.data.time) {
     const start=minutes(e.data.time);
@@ -135,9 +159,9 @@ export function weekSummary(entries,week,today,waterGoal) {
   const dates=dayList(week).filter(d=>d<=today),dateSet=new Set(dates);
   const select=t=>recordsOf(entries,t).filter(e=>dateSet.has(e.entry_date));
   return {
-    waterDays:dates.filter(d=>waterTotal(entries,d)>=waterGoal).length,
+    waterDays:dates.filter(d=>waterTotal(entries,d)>=waterGoalForDate(waterGoal,d)).length,
     focus:select('study').reduce((n,e)=>n+Number(e.data.minutes||0),0),
-    movement:select('activity').reduce((n,e)=>n+Number(e.data.minutes||0),0),
+    movement:activityRecords(entries).filter(e=>dateSet.has(e.entry_date)).reduce((n,e)=>n+Number(e.data.minutes||0),0),
     tasks:select('task').filter(e=>e.data.done).length,
     habits:habitStats(entries,week,dates.length),
     observedDays:dates.length,

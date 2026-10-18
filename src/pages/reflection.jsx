@@ -5,7 +5,7 @@ import {supabase} from '../lib/supabase.js';
 import {PageHead,SectionHead,Button,IconButton,Field,DaysInput,Progress,Tag,Empty} from '../components.jsx';
 import {dayList,startOfWeek,addDays,fmtDate,recordsOf,weekSummary,waterTotal,habitDue,isHabitDone,percent,durationLabel,AREAS,minutes,DEFAULT_SETTINGS} from '../lib/domain.js';
 export function ReviewPage({date,setDate,today,go}){
- const {entries,settings,save,pending,flash}=useRoutine(),week=startOfWeek(date),days=dayList(week),summary=weekSummary(entries,week,today,Number(settings.waterGoal));
+ const {entries,settings,save,pending,flash}=useRoutine(),week=startOfWeek(date),days=dayList(week),summary=weekSummary(entries,week,today,settings);
  const existing=entries.find(e=>e.type==='resource'&&e.data.kind==='Revisão semanal'&&e.data.week===week);
  const [reflection,setReflection]=useState({worked:'',heavy:'',next:''});
  useEffect(()=>{setReflection({worked:existing?.data.worked||'',heavy:existing?.data.heavy||'',next:existing?.data.next||''});},[week,existing?.id,existing?.revision]);
@@ -30,7 +30,7 @@ export function SettingsPage({today}){
   e.preventDefault();
   if(minutes(v.workEnd)<=minutes(v.workStart)||minutes(v.lunchStart)<minutes(v.workStart)||minutes(v.lunchStart)+Number(v.lunchMinutes)>minutes(v.workEnd)){flash('A pausa de almoço precisa caber dentro do seu horário de trabalho.');return;}
   if(minutes(v.bedTime)<=minutes(v.wakeTime)){flash('Nesta versão, o horário de descanso precisa ser depois do horário de acordar no mesmo dia.');return;}
-  const result=await saveProfile({display_name:name.trim(),settings:v},baseline.current);if(result){baseline.current=result.revision;flash('Suas preferências foram atualizadas.');}
+  const result=await saveProfile({display_name:name.trim(),settings:v},baseline.current);if(result){baseline.current=result.revision;setV({...DEFAULT_SETTINGS,...result.settings});flash('Suas preferências foram atualizadas.');}
  }
  async function updatePassword(e){
   e.preventDefault();if(password!==confirm){flash('As senhas precisam ser iguais.');return;}setPasswordBusy(true);

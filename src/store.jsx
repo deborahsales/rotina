@@ -1,6 +1,6 @@
 import React,{createContext,useContext,useState,useEffect,useRef,useCallback} from 'react';
 import {supabase} from './lib/supabase.js';
-import {DEFAULT_SETTINGS,uid,validateEntry,dateKey,seedEntries} from './lib/domain.js';
+import {DEFAULT_SETTINGS,uid,validateEntry,dateKey,seedEntries,putDatedValue} from './lib/domain.js';
 const Context=createContext(null);
 export const useRoutine=()=>useContext(Context);
 function errorText(error) {
@@ -88,6 +88,9 @@ export function RoutineProvider({user,children}) {
       const old=profileRef.current;
       if(old&&expectedRevision!==null&&old.revision!==expectedRevision)throw new Error('Suas preferências mudaram em outro aparelho. Reabra esta tela antes de salvar.');
       const next={display_name:values.display_name??old?.display_name??'',settings:{...DEFAULT_SETTINGS,...old?.settings,...values.settings},initialized:true};
+      if(old&&Number(next.settings.waterGoal)!==Number(old.settings?.waterGoal||DEFAULT_SETTINGS.waterGoal)) {
+        next.settings.waterGoalHistory=putDatedValue(old.settings?.waterGoalHistory,dateKey(new Date(),next.settings.timezone),{goal:Number(next.settings.waterGoal)},{goal:Number(old.settings?.waterGoal||DEFAULT_SETTINGS.waterGoal)});
+      }
       let q=old?supabase.from('routine_profiles').update(next).eq('user_id',user.id).eq('revision',old.revision).select().maybeSingle():supabase.from('routine_profiles').insert({...next,user_id:user.id}).select().single();
       const {data,error:e}=await q;if(e)throw e;
       if(!data)throw new Error('Suas preferências mudaram em outro aparelho. Atualize a página.');

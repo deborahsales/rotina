@@ -12,6 +12,8 @@ Painel pessoal para organizar trabalho, alimentação, água, hábitos, casa, es
 - **Objetivos:** passos marcáveis ou progresso numérico, prazo, área e motivação.
 - **Estudos:** cronômetro, pausa, registro manual e histórico. O cronômetro usa tempo real e se recupera na mesma aba. A sessão só é salva quando solicitado.
 - **Corpo e descanso:** água, movimento, sono, energia e anotações pessoais.
+- **Exercícios:** plano recorrente de academia, caminhada e outras modalidades, integrado à agenda e ao Meu dia; alerta de horários sobrepostos; metas semanais de sessões e minutos; registro da duração real, distância opcional e histórico. Editar ou pausar um plano preserva sua programação anterior.
+- **Minhas medalhas:** etapas por atividades realizadas, conquistas específicas de academia/caminhada e desafio de movimento semanal; hidratação por dias com a meta atingida, com desafios semanais e mensais editáveis, sequências e conquistas acumuladas. Planejar não concede medalhas, dias futuros não contam e cada dia de água conta no máximo uma vez.
 - **Ateliê 3D:** produções por etapa, prazo, tempo de máquina e anotações.
 - **Lazer:** livros e páginas lidas, filmes, séries, hobbies e vontades para depois.
 - **Minha evolução:** indicadores semanais e reflexão pessoal, sem ranking.
@@ -89,18 +91,21 @@ A migração **supabase/migrations/20261018141220_rotina_initial.sql** já foi a
 - revision avança no servidor. O cliente verifica versões ao salvar e informa conflitos.
 - Leituras em segundo plano não substituem gravações recém-realizadas.
 - A conta é consultada ao abrir, ao voltar à aba e periodicamente enquanto ela está visível.
+- Os planos de exercício usam blocos com histórico de programação. A conclusão e os dados reais da atividade ficam juntos no block_log, com unicidade por usuário, plano e dia. Os registros antigos de activity continuam válidos.
+- As metas guardam o critério de cada período nas preferências; as medalhas são calculadas a partir desses critérios e dos registros salvos. Excluir ou corrigir um registro recalcula suas conquistas. Não foi necessário alterar o esquema do banco para esta atualização.
 
 Em outro projeto vazio, aplique a migração antes de usar o cliente. Não reaplique a migração inicial ao projeto que já a recebeu.
 
 ## Verificação
 
-- **39 testes automatizados**: catálogo, exclusões, rendimentos, compras, importação, fuso, calendário, hábitos e encaixe de tarefas.
+- **61 testes automatizados**: catálogo, exclusões, rendimentos, compras, importação, fuso, calendário, hábitos, encaixe de tarefas, planos de exercício, evolução, metas históricas, viradas de semana/mês e medalhas. Inclui renderização das novas telas e dos formulários com conta vazia e atividades salvas.
 - Build de produção concluído.
 - Duas tabelas com RLS e quatro políticas por tabela; leitura anônima revogada.
 - Teste SQL de isolamento de leitura entre dois usuários simulados, com dados de teste revertidos.
 - Verificador de segurança do Supabase sem alertas no momento da verificação.
 
 Cadastro, confirmação de e-mail, recuperação e uso em navegador precisam ser conferidos na URL final após a configuração da Vercel e dos redirecionamentos.
+As telas desta atualização foram verificadas por renderização e testes de regras; a validação visual interativa em navegador autenticado não foi executada neste ambiente.
 
 ## Limites desta versão
 
@@ -118,9 +123,12 @@ src/App.jsx            autenticação e navegação
 src/store.jsx          sincronização e gravações
 src/components.jsx     componentes e formulários comuns
 src/widgets.jsx        água, tarefas e check-in
+src/fitness-components.jsx planos, metas e registros de exercício
+src/fitness.css        exercícios e mural de medalhas
 src/food.jsx           OKRArdapio integrado
 src/pages/             telas do aplicativo
 src/lib/domain.js      datas, agenda e indicadores
+src/lib/fitness.js     evolução, metas históricas e medalhas
 src/lib/recipes.js     regras do OKRArdapio
 src/data/recipes.json  catálogo atual
 public/assets/         miniaturas e identidade do OKRArdapio
