@@ -1,0 +1,5089 @@
+[
+  {
+    "id": "01",
+    "title": "Smoothie de banana e cacau",
+    "subtitle": "Cremoso, com aveia e whey",
+    "category": "Café da manhã",
+    "time": "5 min",
+    "yield_text": "1 copo grande",
+    "serving": "Consumir o preparo inteiro.",
+    "ingredients": [
+      [
+        "Banana sem casca",
+        "100 g"
+      ],
+      [
+        "Leite pasteurizado",
+        "180 ml"
+      ],
+      [
+        "Whey de baunilha ou chocolate",
+        "20 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "20 g"
+      ],
+      [
+        "Cacau em pó sem açúcar",
+        "5 g"
+      ],
+      [
+        "Canela",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare a fruta",
+        "Corte a banana em rodelas. Use fresca ou já congelada."
+      ],
+      [
+        "Bata",
+        "Coloque leite, banana, whey, aveia e cacau no liquidificador. Bata por 30-60 segundos."
+      ],
+      [
+        "Ajuste e sirva",
+        "Se ficar muito espesso, adicione até 30 ml de água. Finalize com canela e consuma em seguida."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador",
+        "Método principal. Não precisa aquecer."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam ao preparo."
+      ]
+    ],
+    "storage": "Preferir consumo imediato. Se necessário, até 24 h em pote fechado a 4 °C ou menos; agite antes de beber.",
+    "freeze": "Congele só a banana porcionada por até 30 dias, para melhor qualidade. Acrescente leite, whey e aveia ao bater.",
+    "thaw": "Use a banana diretamente congelada no liquidificador. O smoothie pronto não é a opção preferida para congelar.",
+    "tip": "Pese o whey: o tamanho do dosador muda entre marcas. A foto é ilustrativa e não define o volume exato.",
+    "allergens": "Leite; possível soja e glúten, conforme os rótulos.",
+    "equipment": "Liquidificador; balança; copo",
+    "alternative_categories": [],
+    "image": "assets/photos/01.webp",
+    "thumbnail": "assets/photos/01-small.webp",
+    "active_minutes": 5,
+    "equipment_tags": [
+      "Liquidificador"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "02",
+    "title": "Smoothie de morango",
+    "subtitle": "Banana, iogurte e whey de baunilha",
+    "category": "Café da manhã",
+    "time": "5 min",
+    "yield_text": "1 copo grande",
+    "serving": "Consumir o preparo inteiro.",
+    "ingredients": [
+      [
+        "Morango higienizado",
+        "120 g"
+      ],
+      [
+        "Banana sem casca",
+        "60 g"
+      ],
+      [
+        "Iogurte natural pasteurizado",
+        "160 g"
+      ],
+      [
+        "Whey de baunilha",
+        "20 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "15 g"
+      ],
+      [
+        "Água",
+        "60-100 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Porcione",
+        "Retire as folhas dos morangos e corte a banana. Frutas congeladas deixam o resultado mais espesso."
+      ],
+      [
+        "Bata",
+        "Bata frutas, iogurte, whey, aveia e 60 ml de água até ficar uniforme."
+      ],
+      [
+        "Sirva",
+        "Adicione o restante da água apenas se precisar. Consuma em seguida."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador",
+        "Método principal; frutas frescas ou congeladas."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam."
+      ]
+    ],
+    "storage": "Preferir na hora. Se necessário, refrigerar por até 24 h, em pote fechado a 4 °C ou menos.",
+    "freeze": "Congele as frutas juntas em uma porção, por até 30 dias para melhor qualidade. Mantenha os demais ingredientes separados.",
+    "thaw": "Bata as frutas ainda congeladas com os demais ingredientes. Não descongele na bancada.",
+    "tip": "Use morangos higienizados e bem secos antes de congelar. Não é necessário acrescentar açúcar.",
+    "allergens": "Leite; possível soja e glúten, conforme os rótulos.",
+    "equipment": "Liquidificador; balança; copo",
+    "alternative_categories": [],
+    "image": "assets/photos/02.webp",
+    "thumbnail": "assets/photos/02-small.webp",
+    "active_minutes": 5,
+    "equipment_tags": [
+      "Liquidificador"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "03",
+    "title": "Smoothie de manga",
+    "subtitle": "Iogurte, aveia e um toque de limão",
+    "category": "Café da manhã",
+    "time": "5 min",
+    "yield_text": "1 copo grande",
+    "serving": "Consumir o preparo inteiro.",
+    "ingredients": [
+      [
+        "Manga sem casca e caroço",
+        "150 g"
+      ],
+      [
+        "Iogurte natural pasteurizado",
+        "170 g"
+      ],
+      [
+        "Whey de baunilha",
+        "15 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "20 g"
+      ],
+      [
+        "Água",
+        "50-100 ml"
+      ],
+      [
+        "Suco de limão",
+        "5 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare",
+        "Corte a manga em cubos. Pode usar a fruta já porcionada e congelada."
+      ],
+      [
+        "Bata",
+        "Bata a manga com o iogurte, o whey, a aveia, o limão e 50 ml de água."
+      ],
+      [
+        "Finalize",
+        "Ajuste a consistência com o restante da água e sirva imediatamente."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador",
+        "Método principal; não precisa aquecer."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam."
+      ]
+    ],
+    "storage": "Preferir consumo imediato; se necessário, até 24 h refrigerado em pote fechado a 4 °C ou menos.",
+    "freeze": "Congele só os cubos de manga por até 30 dias para melhor qualidade. Monte a bebida ao consumir.",
+    "thaw": "Use a manga diretamente congelada. Bata com os ingredientes frios até ficar cremosa.",
+    "tip": "Variação: substitua o limão por uma pitada de gengibre, mantendo as outras quantidades.",
+    "allergens": "Leite; possível soja e glúten, conforme os rótulos.",
+    "equipment": "Liquidificador; balança; copo",
+    "alternative_categories": [],
+    "image": "assets/photos/03.webp",
+    "thumbnail": "assets/photos/03-small.webp",
+    "active_minutes": 5,
+    "equipment_tags": [
+      "Liquidificador"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "04",
+    "title": "Cuscuz com ovos",
+    "subtitle": "Tomate, cheiro-verde e mamão",
+    "category": "Jantar",
+    "time": "15 min",
+    "yield_text": "1 refeição",
+    "serving": "Todo o cuscuz, os ovos e a fruta.",
+    "ingredients": [
+      [
+        "Flocão de milho seco",
+        "50 g"
+      ],
+      [
+        "Água para hidratar",
+        "40 ml"
+      ],
+      [
+        "Ovos sem casca",
+        "100 g / 2 un."
+      ],
+      [
+        "Tomate",
+        "60 g"
+      ],
+      [
+        "Mamão sem casca e sementes",
+        "100 g"
+      ],
+      [
+        "Azeite",
+        "3 ml"
+      ],
+      [
+        "Sal",
+        "até 0,5 g"
+      ],
+      [
+        "Cheiro-verde",
+        "3 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Hidrate",
+        "Misture flocão, água e metade do sal. Descanse por 5 minutos; se ainda estiver seco, junte 1 colher de chá de água."
+      ],
+      [
+        "Cozinhe o cuscuz",
+        "Coloque na cuscuzeira sem compactar. Cozinhe no vapor por 8-10 minutos após formar vapor."
+      ],
+      [
+        "Faça os ovos",
+        "Aqueça o azeite, refogue o tomate por 1 minuto e junte os ovos batidos. Mexa até estarem completamente firmes."
+      ],
+      [
+        "Monte",
+        "Acrescente o cheiro-verde e o restante do sal. Sirva com o cuscuz e o mamão."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Cuscuzeira e frigideira; método principal."
+      ],
+      [
+        "Airfryer / forno",
+        "Não indicados para esta versão; o cuscuz precisa de vapor."
+      ]
+    ],
+    "storage": "Cuscuz e ovos: até 3 dias a 4 °C ou menos. Mamão cortado: até 2 dias, em pote separado.",
+    "freeze": "Congele apenas o cuscuz pronto, bem embalado, por até 30 dias. Ovos e fruta ficam melhores preparados próximos ao consumo.",
+    "thaw": "Descongele o cuscuz na geladeira e aqueça com gotas de água, no vapor ou micro-ondas, até 74 °C no centro. Faça os ovos na hora.",
+    "tip": "O peso do flocão é seco. A água de hidratação não inclui a água do fundo da cuscuzeira.",
+    "allergens": "Ovo; verificar possíveis traços no flocão.",
+    "equipment": "Cuscuzeira; frigideira; espátula",
+    "alternative_categories": [],
+    "image": "assets/photos/04.webp",
+    "thumbnail": "assets/photos/04-small.webp",
+    "active_minutes": 15,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": [
+      "vegetariana"
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Crepioca de ricota",
+    "subtitle": "Com tomate e mamão para acompanhar",
+    "category": "Café da manhã",
+    "time": "10 min",
+    "yield_text": "1 crepioca + fruta",
+    "serving": "Consumir o preparo inteiro e a fruta.",
+    "ingredients": [
+      [
+        "Ovo sem casca",
+        "50 g / 1 un."
+      ],
+      [
+        "Goma de tapioca hidratada",
+        "30 g"
+      ],
+      [
+        "Ricota pasteurizada",
+        "60 g"
+      ],
+      [
+        "Tomate",
+        "50 g"
+      ],
+      [
+        "Iogurte natural",
+        "15 g"
+      ],
+      [
+        "Mamão limpo",
+        "100 g"
+      ],
+      [
+        "Azeite para untar",
+        "2 ml"
+      ],
+      [
+        "Sal",
+        "até 0,3 g"
+      ],
+      [
+        "Orégano",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o recheio",
+        "Amasse a ricota com iogurte, orégano e metade do sal. Corte o tomate em cubos."
+      ],
+      [
+        "Misture a massa",
+        "Bata o ovo com a goma de tapioca e o restante do sal até ficar homogêneo."
+      ],
+      [
+        "Cozinhe",
+        "Unte uma frigideira antiaderente. Espalhe a massa e cozinhe em fogo médio-baixo por cerca de 2 minutos; vire e termine de firmar."
+      ],
+      [
+        "Recheie",
+        "Espalhe a ricota e o tomate, dobre e aqueça por mais 1 minuto. Sirva com o mamão."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Frigideira antiaderente; cozinhe bem o ovo."
+      ],
+      [
+        "Airfryer / forno",
+        "Não indicados para preparar esta massa fina."
+      ]
+    ],
+    "storage": "Até 2 dias refrigerada a 4 °C ou menos. Guarde a fruta separada e mantenha tudo fechado.",
+    "freeze": "Pode congelar a massa cozida, sem recheio, com papel entre as unidades, por até 30 dias. Recheio e tomate frescos são preferíveis.",
+    "thaw": "Descongele a massa na geladeira e aqueça na frigideira até bem quente. Junte o recheio fresco. Sobras prontas: reaquecer a 74 °C.",
+    "tip": "Use goma já hidratada, própria para tapioca, e não polvilho seco.",
+    "allergens": "Ovo e leite.",
+    "equipment": "Frigideira antiaderente; tigela; garfo",
+    "alternative_categories": [],
+    "image": "assets/photos/05.webp",
+    "thumbnail": "assets/photos/05-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": [
+      "vegetariana"
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Panquecas de banana",
+    "subtitle": "Aveia, canela e iogurte natural",
+    "category": "Café da manhã",
+    "time": "15 min",
+    "yield_text": "3 panquecas pequenas",
+    "serving": "As 3 panquecas com todo o iogurte.",
+    "ingredients": [
+      [
+        "Banana sem casca",
+        "80 g"
+      ],
+      [
+        "Ovo sem casca",
+        "50 g / 1 un."
+      ],
+      [
+        "Farinha de aveia",
+        "30 g"
+      ],
+      [
+        "Leite",
+        "20 ml"
+      ],
+      [
+        "Iogurte natural para servir",
+        "100 g"
+      ],
+      [
+        "Azeite para untar",
+        "2 ml"
+      ],
+      [
+        "Fermento químico",
+        "1 g"
+      ],
+      [
+        "Canela",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça a massa",
+        "Amasse a banana e misture ovo, aveia, leite e canela. Incorpore o fermento por último."
+      ],
+      [
+        "Doure",
+        "Aqueça uma frigideira untada em fogo baixo. Divida a massa em 3 discos e cozinhe por 2-3 minutos."
+      ],
+      [
+        "Vire",
+        "Vire com cuidado e cozinhe por mais 1-2 minutos, até firmar no centro, sem massa crua."
+      ],
+      [
+        "Sirva",
+        "Sirva as panquecas com o iogurte frio ao lado."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, em frigideira e fogo baixo."
+      ],
+      [
+        "Airfryer / forno",
+        "Usar apenas para reaquecer, sem o iogurte."
+      ]
+    ],
+    "storage": "Panquecas: até 3 dias a 4 °C ou menos. Iogurte separado, respeitando a validade após aberto.",
+    "freeze": "Congele as panquecas prontas, com papel entre elas, em saco ou pote fechado por até 30 dias. Não congele o iogurte junto.",
+    "thaw": "Descongele na geladeira. Aqueça na frigideira tampada ou airfryer a 160 °C por cerca de 3-5 min, até 74 °C no centro.",
+    "tip": "Para meal prep, multiplique a massa por 3 e separe 3 panquecas por embalagem.",
+    "allergens": "Ovo e leite; possível glúten na aveia.",
+    "equipment": "Frigideira; tigela; espátula",
+    "alternative_categories": [],
+    "image": "assets/photos/06.webp",
+    "thumbnail": "assets/photos/06-small.webp",
+    "active_minutes": 15,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": [
+      "vegetariana"
+    ]
+  },
+  {
+    "id": "07",
+    "title": "Frango ao limão e páprica",
+    "subtitle": "Batatas rústicas, brócolis e molho de ervas",
+    "category": "Almoço",
+    "time": "40 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru",
+        "150 g"
+      ],
+      [
+        "Batata com casca, crua",
+        "200 g"
+      ],
+      [
+        "Brócolis cru",
+        "150 g"
+      ],
+      [
+        "Iogurte natural",
+        "40 g"
+      ],
+      [
+        "Azeite total",
+        "8 ml"
+      ],
+      [
+        "Suco de limão",
+        "15 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Salsinha",
+        "3 g"
+      ],
+      [
+        "Páprica",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Pimenta-do-reino",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Comece pelas batatas",
+        "Preaqueça o forno a 220 °C. Corte as batatas em gomos, seque e tempere com 4 ml de azeite, metade da páprica e parte do sal. Asse por 30-40 min, virando na metade."
+      ],
+      [
+        "Doure o frango",
+        "Tempere o frango com alho, 10 ml de limão, restante da páprica e sal. Grelhe com 4 ml de azeite por cerca de 5-7 min de cada lado; o centro deve atingir 74 °C."
+      ],
+      [
+        "Cozinhe o brócolis",
+        "Cozinhe no vapor por 4-6 min, até ficar macio, mantendo alguma firmeza."
+      ],
+      [
+        "Faça o molho e monte",
+        "Misture iogurte, salsinha e 5 ml de limão. Sirva com o frango, as batatas e o brócolis."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno + fogão",
+        "Método principal descrito acima."
+      ],
+      [
+        "Airfryer",
+        "Batatas: 200 °C, 20-25 min, mexendo. Frango fino: 180 °C, 12-18 min, virando; confirmar 74 °C."
+      ]
+    ],
+    "storage": "Parte cozida: até 3 dias a 4 °C ou menos. Molho separado: até 2 dias. Resfrie em recipientes rasos.",
+    "freeze": "Sim, sem o molho de iogurte, por até 30 dias para melhor qualidade. Batatas ficam menos crocantes após congelar.",
+    "thaw": "Descongele na geladeira. Aqueça frango e brócolis até 74 °C; finalize batatas na airfryer a 180 °C por 5-8 min, até bem quentes. Faça molho fresco.",
+    "tip": "O tempo depende da espessura do frango e do tamanho dos gomos. Não amontoe as batatas.",
+    "allergens": "Leite.",
+    "equipment": "Assadeira; frigideira; panela de vapor",
+    "alternative_categories": [],
+    "image": "assets/photos/07.webp",
+    "thumbnail": "assets/photos/07-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Forno",
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "08",
+    "title": "Carne ao molho de mostarda",
+    "subtitle": "Batatinhas com alecrim e vagem salteada",
+    "category": "Almoço",
+    "time": "35-40 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Carne bovina magra crua, em tiras",
+        "150 g"
+      ],
+      [
+        "Batata crua",
+        "200 g"
+      ],
+      [
+        "Vagem limpa",
+        "150 g"
+      ],
+      [
+        "Cebola",
+        "40 g"
+      ],
+      [
+        "Mostarda pronta",
+        "10 g"
+      ],
+      [
+        "Azeite total",
+        "8 ml"
+      ],
+      [
+        "Água para o molho",
+        "60 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Alecrim",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 0,5 g"
+      ],
+      [
+        "Pimenta-do-reino",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Asse as batatas",
+        "Corte em pedaços de cerca de 2 cm. Misture com 4 ml de azeite, alecrim e parte do sal. Asse a 220 °C por 30-35 min, mexendo na metade."
+      ],
+      [
+        "Prepare a vagem",
+        "Cozinhe em água por 4-5 min e escorra. Salteie rapidamente com 1 ml de azeite e metade do alho."
+      ],
+      [
+        "Doure a carne",
+        "Aqueça 3 ml de azeite. Doure a carne em frigideira quente e retire. Refogue cebola e o restante do alho na mesma panela."
+      ],
+      [
+        "Faça o molho",
+        "Junte mostarda e 60 ml de água. Volte a carne, deixe ferver e reduzir por 2-3 min. Carne em tiras: atingir ao menos 63 °C e descansar 3 min antes de servir."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno + fogão",
+        "Método principal; o molho é feito na frigideira."
+      ],
+      [
+        "Airfryer",
+        "Batatas: 200 °C por 20-25 min, mexendo. Carne com molho deve ficar no fogão."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em pote fechado. Resfrie rapidamente e guarde a vagem separada se preferir.",
+    "freeze": "Sim, por até 30 dias para melhor qualidade. Congele a carne com o molho; batatas e vagem em compartimentos separados.",
+    "thaw": "Descongele na geladeira. Aqueça carne e molho na panela com 1-2 colheres de sopa de água, até 74 °C. Reaqueça as batatas na airfryer até bem quentes.",
+    "tip": "A mostarda já contém sal. Prove o molho antes de usar o sal previsto.",
+    "allergens": "Mostarda; possíveis outros alergênicos no rótulo.",
+    "equipment": "Assadeira; frigideira; panela",
+    "alternative_categories": [],
+    "image": "assets/photos/08.webp",
+    "thumbnail": "assets/photos/08-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Forno",
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "09",
+    "title": "Peixe com crosta de aveia",
+    "subtitle": "Batatas, cenouras e raspas de limão",
+    "category": "Almoço",
+    "time": "40 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Filé de tilápia cru, sem espinhas",
+        "160 g"
+      ],
+      [
+        "Batata crua",
+        "180 g"
+      ],
+      [
+        "Cenoura crua",
+        "150 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "15 g"
+      ],
+      [
+        "Azeite total",
+        "8 ml"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Raspas de limão",
+        "1 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Salsinha",
+        "3 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Pimenta-do-reino",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Asse os vegetais",
+        "Aqueça o forno a 220 °C. Corte batatas em gomos finos e cenouras em bastões. Misture com 5 ml de azeite e parte do sal; asse por 20 min."
+      ],
+      [
+        "Monte a crosta",
+        "Seque o peixe. Tempere com limão, alho e o restante do sal. Misture aveia, raspas, salsinha e 3 ml de azeite; pressione sobre o filé."
+      ],
+      [
+        "Asse o peixe",
+        "Vire os vegetais e coloque o peixe em outra assadeira. Asse tudo por mais 12-18 min, até o peixe atingir 63 °C no centro e os vegetais estarem macios."
+      ],
+      [
+        "Sirva",
+        "Retire com uma espátula larga para manter a crosta. Sirva imediatamente."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "Método principal: vegetais primeiro, peixe depois."
+      ],
+      [
+        "Airfryer",
+        "Vegetais: 200 °C, 20-25 min. Peixe em leva separada: 180 °C, 10-15 min, até 63 °C. Não sobreponha."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, por qualidade. Guarde em recipiente fechado assim que resfriar rapidamente.",
+    "freeze": "Pode congelar já assado por até 30 dias; a crosta perde parte da textura. Prefira preparar o peixe próximo do consumo.",
+    "thaw": "Descongele na geladeira. Reaqueça a 160-180 °C no forno ou airfryer até 74 °C no centro; cubra no início se estiver ressecando.",
+    "tip": "Evite marinar o peixe por horas no limão. Tempere pouco antes de assar.",
+    "allergens": "Peixe; possível glúten na aveia.",
+    "equipment": "Assadeiras; tigela; espátula larga",
+    "alternative_categories": [],
+    "image": "assets/photos/09.webp",
+    "thumbnail": "assets/photos/09-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "10",
+    "title": "Hambúrguer caseiro",
+    "subtitle": "Batata-doce rústica e salada cremosa",
+    "category": "Almoço",
+    "time": "35 min",
+    "yield_text": "1 prato completo",
+    "serving": "1 hambúrguer, toda a batata e a salada.",
+    "ingredients": [
+      [
+        "Carne moída magra crua",
+        "150 g"
+      ],
+      [
+        "Batata-doce crua",
+        "200 g"
+      ],
+      [
+        "Repolho cru",
+        "100 g"
+      ],
+      [
+        "Cenoura crua",
+        "50 g"
+      ],
+      [
+        "Iogurte natural",
+        "40 g"
+      ],
+      [
+        "Azeite total",
+        "7 ml"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Páprica",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Pimenta-do-reino",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Asse a batata",
+        "Corte em gomos e misture com 5 ml de azeite, páprica e parte do sal. Asse a 220 °C por 25-35 min, virando na metade."
+      ],
+      [
+        "Prepare a salada",
+        "Fatie o repolho bem fino e rale a cenoura. Misture iogurte e limão; mantenha os vegetais e o molho separados até servir."
+      ],
+      [
+        "Modele e grelhe",
+        "Modele 1 disco de carne com cerca de 1,5 cm de espessura. Tempere e grelhe com 2 ml de azeite por cerca de 4-6 min de cada lado, até 71 °C no centro."
+      ],
+      [
+        "Monte",
+        "Misture o molho à salada e sirva ao lado do hambúrguer e das batatas."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno + fogão",
+        "Método principal. Hambúrguer bovino deve chegar a 71 °C."
+      ],
+      [
+        "Airfryer",
+        "Batata: 200 °C, 18-25 min. Hambúrguer: 180 °C, 10-15 min, virando e confirmando 71 °C; fazer em levas."
+      ]
+    ],
+    "storage": "Hambúrguer e batata: até 3 dias a 4 °C ou menos. Salada sem molho: até 2 dias. Molho separado: até 2 dias.",
+    "freeze": "Sim, só hambúrguer já cozido e batata, por até 30 dias. Não congele a salada nem o molho de iogurte.",
+    "thaw": "Descongele na geladeira. Aqueça o hambúrguer até 74 °C no centro; aqueça a batata na airfryer a 180 °C por 5-8 min. Prepare salada fresca.",
+    "tip": "Esta versão é servida no prato, sem pão. O carboidrato principal é a batata-doce.",
+    "allergens": "Leite.",
+    "equipment": "Assadeira; frigideira; ralador",
+    "alternative_categories": [],
+    "image": "assets/photos/10.webp",
+    "thumbnail": "assets/photos/10-small.webp",
+    "active_minutes": 35,
+    "equipment_tags": [
+      "Forno",
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "11",
+    "title": "Carne com shoyu e gengibre",
+    "subtitle": "Arroz, brócolis e gergelim",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Toda a receita; arroz rende cerca de 140-160 g.",
+    "ingredients": [
+      [
+        "Carne bovina magra crua, em tiras",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "50 g"
+      ],
+      [
+        "Brócolis cru",
+        "180 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Shoyu com menos sódio",
+        "10 ml"
+      ],
+      [
+        "Água para o molho",
+        "40 ml"
+      ],
+      [
+        "Mel",
+        "5 g"
+      ],
+      [
+        "Amido de milho",
+        "3 g"
+      ],
+      [
+        "Gengibre ralado",
+        "3 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Gergelim",
+        "3 g"
+      ],
+      [
+        "Cebolinha",
+        "3 g"
+      ],
+      [
+        "Água para o arroz",
+        "150 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe o arroz",
+        "Leve arroz e 150 ml de água à panela. Cozinhe tampado em fogo baixo por 12-18 min; ajuste a água se necessário."
+      ],
+      [
+        "Prepare molho e brócolis",
+        "Misture shoyu, 40 ml de água, mel e amido. Cozinhe o brócolis no vapor por 4-5 min e reserve."
+      ],
+      [
+        "Doure a carne",
+        "Aqueça o azeite, doure a carne e junte alho e gengibre. A carne deve atingir 63 °C; descanse 3 min antes da etapa final."
+      ],
+      [
+        "Finalize",
+        "Junte o molho à carne e ferva por 1-2 min, mexendo até engrossar. Acrescente brócolis, gergelim e cebolinha. Sirva com o arroz."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; molho e arroz precisam de panela."
+      ],
+      [
+        "Airfryer / forno",
+        "Podem assar só o brócolis: 180 °C, 8-12 min na airfryer, ou 200 °C, 15-20 min no forno."
+      ]
+    ],
+    "storage": "Refeição com arroz: refrigerar rapidamente, idealmente em até 1 h, e consumir em até 24 h a 4 °C ou menos.",
+    "freeze": "Sim, em marmita individual, por até 30 dias para melhor qualidade. Congele no dia do preparo, após resfriamento rápido.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Aqueça uma única vez até 74 °C, mexendo para distribuir o calor. Adicione 1 colher de sopa de água ao arroz.",
+    "tip": "O shoyu faz o papel do sal nesta receita. Não acrescente sal automaticamente.",
+    "allergens": "Soja, gergelim e possível trigo no shoyu.",
+    "equipment": "Panelas; frigideira; tigela",
+    "alternative_categories": [],
+    "image": "assets/photos/11.webp",
+    "thumbnail": "assets/photos/11-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "12",
+    "title": "Frango teriyaki caseiro",
+    "subtitle": "Arroz, cenoura e abobrinha salteadas",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru, em cubos",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "50 g"
+      ],
+      [
+        "Cenoura crua",
+        "80 g"
+      ],
+      [
+        "Abobrinha crua",
+        "100 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Shoyu com menos sódio",
+        "10 ml"
+      ],
+      [
+        "Água para o molho",
+        "40 ml"
+      ],
+      [
+        "Mel",
+        "5 g"
+      ],
+      [
+        "Amido de milho",
+        "3 g"
+      ],
+      [
+        "Gengibre ralado",
+        "3 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Água para o arroz",
+        "150 ml"
+      ],
+      [
+        "Gergelim",
+        "3 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o arroz",
+        "Cozinhe o arroz com 150 ml de água em fogo baixo, com tampa, por 12-18 min. Ajuste a água se necessário."
+      ],
+      [
+        "Salteie os legumes",
+        "Corte cenoura em tiras finas e abobrinha em meias-luas. Salteie com 2 ml de azeite por 5-7 min. Reserve."
+      ],
+      [
+        "Doure o frango",
+        "Use o restante do azeite para dourar os cubos. Junte alho e gengibre e cozinhe até o frango atingir 74 °C no centro."
+      ],
+      [
+        "Faça o teriyaki",
+        "Misture shoyu, 40 ml de água, mel e amido. Despeje sobre o frango e ferva por 1-2 min, até engrossar. Sirva com arroz, legumes e gergelim."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; mexa o molho para não grudar."
+      ],
+      [
+        "Airfryer",
+        "Frango sem molho: 180 °C, 12-16 min, virando, até 74 °C. Finalize com o molho fervido no fogão. Forno não é necessário."
+      ]
+    ],
+    "storage": "Por conter arroz, guardar a 4 °C ou menos e consumir em até 24 h. Resfriar o arroz idealmente em até 1 h.",
+    "freeze": "Sim, em porção individual por até 30 dias para melhor qualidade. Congele já no dia do preparo.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Reaqueça uma vez, com gotas de água no arroz, até 74 °C em toda a porção.",
+    "tip": "Corte o frango em cubos parecidos para que cozinhem por igual.",
+    "allergens": "Soja, gergelim e possível trigo no shoyu.",
+    "equipment": "Panelas; frigideira; tábua",
+    "alternative_categories": [],
+    "image": "assets/photos/12.webp",
+    "thumbnail": "assets/photos/12-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "13",
+    "title": "Bowl de carne e gengibre",
+    "subtitle": "Arroz, repolho, cenoura e gergelim",
+    "category": "Almoço",
+    "time": "25 min",
+    "yield_text": "1 bowl completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Carne moída magra crua",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "50 g"
+      ],
+      [
+        "Repolho cru",
+        "120 g"
+      ],
+      [
+        "Cenoura crua",
+        "80 g"
+      ],
+      [
+        "Shoyu com menos sódio",
+        "10 ml"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Gengibre ralado",
+        "3 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Gergelim",
+        "3 g"
+      ],
+      [
+        "Cebolinha",
+        "3 g"
+      ],
+      [
+        "Água para o arroz",
+        "150 ml"
+      ],
+      [
+        "Água para a carne",
+        "20 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe o arroz",
+        "Cozinhe com 150 ml de água em fogo baixo por 12-18 min, ajustando a água se necessário."
+      ],
+      [
+        "Salteie os vegetais",
+        "Fatie o repolho e rale a cenoura. Salteie com 2 ml de azeite por 4-6 min; reserve."
+      ],
+      [
+        "Faça a carne",
+        "Doure a carne com 3 ml de azeite, desfazendo os grumos. Junte alho e gengibre, depois shoyu e 20 ml de água. Cozinhe até 71 °C no centro."
+      ],
+      [
+        "Monte o bowl",
+        "Distribua arroz, carne e vegetais. Finalize com gergelim e cebolinha."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, usando panela e frigideira."
+      ],
+      [
+        "Airfryer / forno",
+        "Não indicados para a carne solta e os vegetais finamente cortados desta versão."
+      ]
+    ],
+    "storage": "Por conter arroz, consumir em até 24 h a 4 °C ou menos. Resfriar rapidamente, idealmente em até 1 h.",
+    "freeze": "Sim, em porções individuais por até 30 dias para melhor qualidade. Congele no dia do preparo.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Aqueça uma vez até 74 °C no centro; mexa na metade do aquecimento.",
+    "tip": "Repolho e cenoura aumentam o volume do prato e aproveitam os mesmos ingredientes da salada do card 10.",
+    "allergens": "Soja, gergelim e possível trigo no shoyu.",
+    "equipment": "Panela; frigideira; ralador",
+    "alternative_categories": [],
+    "image": "assets/photos/13.webp",
+    "thumbnail": "assets/photos/13-small.webp",
+    "active_minutes": 25,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "14",
+    "title": "Frango com molho de amendoim",
+    "subtitle": "Arroz, brócolis e pepino fresco",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru, em tiras",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "45 g"
+      ],
+      [
+        "Brócolis cru",
+        "150 g"
+      ],
+      [
+        "Pepino cru",
+        "80 g"
+      ],
+      [
+        "Pasta de amendoim sem açúcar",
+        "15 g"
+      ],
+      [
+        "Shoyu com menos sódio",
+        "5 ml"
+      ],
+      [
+        "Suco de limão",
+        "15 ml"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Gengibre ralado",
+        "2 g"
+      ],
+      [
+        "Água para o molho",
+        "40 ml"
+      ],
+      [
+        "Água para o arroz",
+        "140 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça os acompanhamentos",
+        "Cozinhe o arroz com 140 ml de água por 12-18 min. Cozinhe o brócolis no vapor por 4-6 min. Fatie o pepino e mantenha frio."
+      ],
+      [
+        "Misture o molho",
+        "Misture pasta de amendoim, shoyu, limão e 40 ml de água. Mexa até ficar uniforme."
+      ],
+      [
+        "Cozinhe o frango",
+        "Doure o frango com azeite, alho e gengibre, até atingir 74 °C no centro."
+      ],
+      [
+        "Finalize",
+        "Junte o molho ao frango e aqueça em fogo baixo por 1-2 min. Se engrossar demais, adicione 1 colher de sopa de água. Sirva com arroz, brócolis e pepino."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; molho em fogo baixo."
+      ],
+      [
+        "Airfryer",
+        "Frango sem molho: 180 °C, 12-16 min, virando, até 74 °C. Finalize na panela. Forno não é necessário."
+      ]
+    ],
+    "storage": "Parte com arroz: até 24 h a 4 °C ou menos; resfriar idealmente em até 1 h. Pepino em pote separado.",
+    "freeze": "Sim, sem o pepino, por até 30 dias para melhor qualidade. O molho pode separar; mexa ao reaquecer.",
+    "thaw": "Descongele na geladeira; consuma em até 24 h. Aqueça uma vez até 74 °C, juntando água ao molho se preciso. Acrescente pepino fresco depois.",
+    "tip": "Use pasta feita de amendoim, sem necessidade de adoçar o molho.",
+    "allergens": "Amendoim, soja e possível trigo no shoyu.",
+    "equipment": "Panelas; frigideira; tigela",
+    "alternative_categories": [],
+    "image": "assets/photos/14.webp",
+    "thumbnail": "assets/photos/14-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "15",
+    "title": "Bowl mexicano de frango",
+    "subtitle": "Arroz, feijão-preto e pimentões",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 bowl completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru",
+        "130 g"
+      ],
+      [
+        "Arroz branco cru",
+        "40 g"
+      ],
+      [
+        "Feijão-preto cozido, escorrido",
+        "80 g"
+      ],
+      [
+        "Pimentão cru",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "40 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Suco de limão",
+        "15 ml"
+      ],
+      [
+        "Páprica",
+        "1 g"
+      ],
+      [
+        "Cominho",
+        "0,5 g"
+      ],
+      [
+        "Coentro ou salsinha",
+        "3 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Água para o arroz",
+        "120 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare a base",
+        "Cozinhe o arroz com 120 ml de água por 12-18 min. Aqueça o feijão já cozido. Ajuste a água do arroz se precisar."
+      ],
+      [
+        "Faça a salsa",
+        "Pique tomate e 10 g da cebola. Misture com metade do limão, ervas e parte do sal. Mantenha refrigerado."
+      ],
+      [
+        "Doure frango e pimentão",
+        "Corte o frango em tiras e tempere com páprica, cominho e sal. Doure no azeite; junte o restante da cebola e o pimentão. Cozinhe até o frango chegar a 74 °C."
+      ],
+      [
+        "Monte",
+        "Distribua arroz, feijão, frango e pimentões. Acrescente a salsa fria e o restante do limão ao servir."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; feijão deve estar previamente cozido."
+      ],
+      [
+        "Airfryer",
+        "Frango e pimentão: 180 °C, 12-18 min, mexendo, até 74 °C no frango. Arroz e feijão ficam no fogão."
+      ]
+    ],
+    "storage": "Parte com arroz: até 24 h a 4 °C ou menos, após resfriamento rápido, idealmente em até 1 h. Salsa em pote separado.",
+    "freeze": "Sim, só a parte cozida, por até 30 dias para melhor qualidade. Não congele a salsa de tomate crua.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Aqueça uma vez até 74 °C. Prepare a salsa perto de consumir.",
+    "tip": "Se usar feijão pronto em embalagem, escorra e enxágue. A lista considera feijão já cozido.",
+    "allergens": "Verificar rótulos dos temperos e do feijão pronto.",
+    "equipment": "Panelas; frigideira; tigela",
+    "alternative_categories": [],
+    "image": "assets/photos/15.webp",
+    "thumbnail": "assets/photos/15-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "16",
+    "title": "Almôndegas com purê",
+    "subtitle": "Molho de tomate, abóbora e brócolis",
+    "category": "Almoço",
+    "time": "40 min",
+    "yield_text": "1 prato completo",
+    "serving": "4 almôndegas pequenas, purê e brócolis.",
+    "ingredients": [
+      [
+        "Carne moída magra crua",
+        "150 g"
+      ],
+      [
+        "Abóbora cabotiá limpa, crua",
+        "250 g"
+      ],
+      [
+        "Brócolis cru",
+        "150 g"
+      ],
+      [
+        "Passata de tomate sem sal",
+        "120 g"
+      ],
+      [
+        "Farinha de aveia",
+        "10 g"
+      ],
+      [
+        "Cebola ralada",
+        "30 g"
+      ],
+      [
+        "Azeite total",
+        "8 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Água para o molho",
+        "50 ml"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Orégano",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o purê",
+        "Cozinhe a abóbora em água até ficar macia, por 12-18 min. Escorra bem, amasse e misture com 3 ml de azeite e parte do sal."
+      ],
+      [
+        "Modele",
+        "Misture carne, aveia, cebola, metade do alho e parte do sal. Modele 4 almôndegas iguais."
+      ],
+      [
+        "Cozinhe no molho",
+        "Doure as almôndegas com 5 ml de azeite. Junte o restante do alho, passata, água e orégano. Tampe e cozinhe por 12-15 min, até 71 °C no centro das almôndegas."
+      ],
+      [
+        "Finalize",
+        "Cozinhe o brócolis no vapor por 4-6 min. Sirva com o purê e as almôndegas ao molho."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; molho e purê na panela."
+      ],
+      [
+        "Airfryer / forno",
+        "Almôndegas: 180 °C, 10-15 min na airfryer ou 200 °C, 18-22 min no forno, até 71 °C. Finalize no molho."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em porção rasa e recipiente fechado.",
+    "freeze": "Sim, o prato completo por até 30 dias para melhor qualidade. O purê pode soltar água; mexa ao aquecer.",
+    "thaw": "Descongele na geladeira. Aqueça purê, molho e almôndegas até 74 °C no centro, misturando o purê na metade.",
+    "tip": "O peso da abóbora é sem casca e sementes. Não é necessário ovo para ligar esta quantidade de carne.",
+    "allergens": "Possível glúten na aveia.",
+    "equipment": "Panelas; frigideira; amassador",
+    "alternative_categories": [],
+    "image": "assets/photos/16.webp",
+    "thumbnail": "assets/photos/16-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "17",
+    "title": "Frango mediterrâneo",
+    "subtitle": "Arroz com grão-de-bico e salada fresca",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru",
+        "130 g"
+      ],
+      [
+        "Arroz branco cru",
+        "40 g"
+      ],
+      [
+        "Grão-de-bico cozido, escorrido",
+        "70 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Pepino",
+        "80 g"
+      ],
+      [
+        "Iogurte natural",
+        "40 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Suco de limão",
+        "15 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Orégano",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Água para o arroz",
+        "120 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça a base",
+        "Cozinhe o arroz com 120 ml de água por 12-18 min; ajuste a água se preciso. Misture o grão-de-bico já cozido e aqueça."
+      ],
+      [
+        "Grelhe o frango",
+        "Tempere com alho, orégano, 10 ml de limão e parte do sal. Grelhe com azeite por cerca de 5-7 min de cada lado, até 74 °C no centro."
+      ],
+      [
+        "Faça salada e molho",
+        "Pique tomate e pepino. Misture iogurte com 5 ml de limão e o restante do sal."
+      ],
+      [
+        "Sirva",
+        "Sirva o frango com a base de arroz e grão-de-bico, salada fria e molho à parte."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; salada e molho são frios."
+      ],
+      [
+        "Airfryer / forno",
+        "Frango fino: airfryer a 180 °C, 12-18 min; forno a 200 °C, 18-25 min. Confirmar 74 °C."
+      ]
+    ],
+    "storage": "Parte com arroz: até 24 h a 4 °C ou menos; resfriar idealmente em até 1 h. Salada e molho separados, por até 2 dias.",
+    "freeze": "Sim, só frango e arroz com grão-de-bico, por até 30 dias para melhor qualidade. Não congele molho nem salada.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Aqueça a parte cozida uma vez até 74 °C e acrescente salada e molho frescos.",
+    "tip": "A lista considera grão-de-bico já cozido. Se preparar do seco, cozinhe uma quantidade maior e congele em porções.",
+    "allergens": "Leite.",
+    "equipment": "Panela; frigideira; tigelas",
+    "alternative_categories": [],
+    "image": "assets/photos/17.webp",
+    "thumbnail": "assets/photos/17-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "18",
+    "title": "Curry de grão-de-bico",
+    "subtitle": "Abóbora, espinafre e arroz",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Grão-de-bico cozido, escorrido",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "40 g"
+      ],
+      [
+        "Abóbora limpa, crua",
+        "150 g"
+      ],
+      [
+        "Espinafre cru",
+        "60 g"
+      ],
+      [
+        "Leite de coco culinário",
+        "40 ml"
+      ],
+      [
+        "Cebola",
+        "40 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Curry em pó",
+        "2 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Água para o curry",
+        "100 ml"
+      ],
+      [
+        "Água para o arroz",
+        "120 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe o arroz",
+        "Cozinhe com 120 ml de água em fogo baixo por 12-18 min, ajustando a água se necessário."
+      ],
+      [
+        "Refogue",
+        "Aqueça o azeite e refogue cebola e alho por 2 min. Junte o curry e mexa por 20 segundos."
+      ],
+      [
+        "Cozinhe o curry",
+        "Junte abóbora em cubos pequenos, 100 ml de água, leite de coco e sal. Cozinhe tampado por 10-15 min, até a abóbora ficar macia."
+      ],
+      [
+        "Finalize",
+        "Acrescente o grão-de-bico e o espinafre. Cozinhe por mais 3-4 min, até tudo ficar bem quente. Sirva com o arroz."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, em duas panelas."
+      ],
+      [
+        "Airfryer / forno",
+        "Não indicados para preparar o curry com líquido. Podem assar a abóbora, mas depois é preciso finalizar na panela."
+      ]
+    ],
+    "storage": "Parte com arroz: até 24 h a 4 °C ou menos. Resfriar rapidamente, idealmente em até 1 h.",
+    "freeze": "Sim, por até 30 dias para melhor qualidade. Separe arroz e curry ou use marmita com divisórias.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Aqueça uma vez na panela ou micro-ondas até 74 °C, mexendo e adicionando água se preciso.",
+    "tip": "Refeição sem carne e sem leite de origem animal. Confira os ingredientes da mistura de curry.",
+    "allergens": "Possíveis alergênicos no curry e no leite de coco industrializado; verificar rótulos.",
+    "equipment": "Duas panelas; colher; tábua",
+    "alternative_categories": [],
+    "image": "assets/photos/18.webp",
+    "thumbnail": "assets/photos/18-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": [
+      "vegetariana"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Brownie de banana e cacau",
+    "subtitle": "Aveia, amendoim e pedacinhos de chocolate",
+    "category": "Lanche",
+    "time": "30 min",
+    "yield_text": "6 quadradinhos",
+    "serving": "2 quadradinhos = 1 lanche; rende 3 porções.",
+    "ingredients": [
+      [
+        "Banana madura sem casca",
+        "200 g"
+      ],
+      [
+        "Ovo sem casca",
+        "50 g / 1 un."
+      ],
+      [
+        "Farinha de aveia",
+        "40 g"
+      ],
+      [
+        "Cacau em pó sem açúcar",
+        "15 g"
+      ],
+      [
+        "Pasta de amendoim sem açúcar",
+        "20 g"
+      ],
+      [
+        "Chocolate 60-70% picado",
+        "25 g"
+      ],
+      [
+        "Óleo para untar",
+        "2 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare",
+        "Aqueça o forno a 180 °C. Forre uma forma de cerca de 15 x 15 cm com papel-manteiga e unte levemente."
+      ],
+      [
+        "Misture",
+        "Amasse a banana. Misture ovo e pasta de amendoim; incorpore aveia, cacau e chocolate."
+      ],
+      [
+        "Asse",
+        "Espalhe a massa e asse por 20-25 min. O centro deve estar firme, sem massa crua; o palito pode sair com migalhas úmidas."
+      ],
+      [
+        "Porcione",
+        "Espere esfriar e corte em 6 partes iguais. Separe 2 quadradinhos por porção."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "180 °C por 20-25 min; método principal."
+      ],
+      [
+        "Airfryer",
+        "160 °C por cerca de 15-20 min em forma compatível, sem bloquear o fluxo de ar. Verifique o centro. Fogão não indicado."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em pote fechado. Refrigere depois de resfriar rapidamente.",
+    "freeze": "Sim, por até 30 dias para melhor qualidade. Embale 2 quadradinhos juntos e coloque em pote ou saco fechado.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Pode comer frio. Para servir quente, aqueça apenas a porção até 74 °C no centro, sem ressecar.",
+    "tip": "Tem textura úmida e sabor de banana. A lista é para a fornada inteira; a porção é 1/3 dela.",
+    "allergens": "Ovo, amendoim; possível leite, soja e glúten nos rótulos.",
+    "equipment": "Tigela; garfo; forma de 15 x 15 cm",
+    "alternative_categories": [],
+    "image": "assets/photos/19.webp",
+    "thumbnail": "assets/photos/19-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 3,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "20",
+    "title": "Muffin de maçã e canela",
+    "subtitle": "Bolinhos de aveia para deixar prontos",
+    "category": "Lanche",
+    "time": "35 min",
+    "yield_text": "6 muffins pequenos",
+    "serving": "Lanche: 2 muffins. Café: 2 muffins + iogurte de 160 g.",
+    "ingredients": [
+      [
+        "Maçã sem miolo, com casca",
+        "150 g"
+      ],
+      [
+        "Ovo sem casca",
+        "50 g / 1 un."
+      ],
+      [
+        "Farinha de aveia",
+        "100 g"
+      ],
+      [
+        "Leite",
+        "60 ml"
+      ],
+      [
+        "Óleo vegetal",
+        "15 ml"
+      ],
+      [
+        "Açúcar",
+        "20 g"
+      ],
+      [
+        "Fermento químico",
+        "4 g"
+      ],
+      [
+        "Canela",
+        "1 g"
+      ],
+      [
+        "Iogurte para café da manhã*",
+        "160 g / porção"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare",
+        "Aqueça o forno a 180 °C. Corte a maçã em cubos pequenos. Separe 6 formas pequenas de silicone ou papel próprias para forno."
+      ],
+      [
+        "Faça a massa",
+        "Misture ovo, leite, óleo e açúcar. Incorpore aveia, maçã e canela. Por último, misture o fermento."
+      ],
+      [
+        "Asse",
+        "Divida igualmente nas 6 formas e asse por 20-25 min, até o centro estar assado e o palito sair sem massa crua."
+      ],
+      [
+        "Porcione",
+        "Espere esfriar. Separe 2 unidades por embalagem. *O iogurte é complemento só da opção de café da manhã, não entra na massa."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "180 °C por 20-25 min; método principal."
+      ],
+      [
+        "Airfryer",
+        "160 °C por 12-18 min, em forminhas estáveis e próprias para o aparelho. Deixe espaço entre elas. Fogão não indicado."
+      ]
+    ],
+    "storage": "Muffins: até 3 dias a 4 °C ou menos. Iogurte separado, conforme a validade após aberto.",
+    "freeze": "Sim, só os muffins, por até 30 dias para melhor qualidade. Embale 2 unidades por porção.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Pode comer frio; se reaquecer, aqueça a porção até 74 °C. Sirva o iogurte frio.",
+    "tip": "Rende 3 porções de 2 muffins. O iogurte complementar deve ser comprado para cada porção de café que for servir.",
+    "allergens": "Ovo e leite; possível glúten na aveia.",
+    "equipment": "Tigela; 6 forminhas; assadeira",
+    "alternative_categories": [
+      "Café da manhã"
+    ],
+    "image": "assets/photos/20.webp",
+    "thumbnail": "assets/photos/20-small.webp",
+    "active_minutes": 35,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 3,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "21",
+    "title": "Cookies de aveia e amendoim",
+    "subtitle": "Banana e chocolate em uma massa macia",
+    "category": "Lanche",
+    "time": "25 min",
+    "yield_text": "8 cookies pequenos",
+    "serving": "2 cookies = 1 lanche; rende 4 porções.",
+    "ingredients": [
+      [
+        "Banana madura sem casca",
+        "100 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "80 g"
+      ],
+      [
+        "Pasta de amendoim sem açúcar",
+        "30 g"
+      ],
+      [
+        "Chocolate 60-70% picado",
+        "25 g"
+      ],
+      [
+        "Canela",
+        "0,5 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Misture",
+        "Aqueça o forno a 180 °C. Amasse a banana e misture com aveia, pasta de amendoim, chocolate e canela."
+      ],
+      [
+        "Descanse e modele",
+        "Descanse por 5 min. Divida em 8 partes, coloque em assadeira forrada e achate até cerca de 0,7 cm de espessura."
+      ],
+      [
+        "Asse",
+        "Asse por 15-20 min, até as bordas firmarem. Deixe esfriar na assadeira antes de retirar."
+      ],
+      [
+        "Separe as porções",
+        "Embale 2 cookies juntos. A textura fica macia, com leve crosta nas bordas."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "180 °C por 15-20 min; método principal."
+      ],
+      [
+        "Airfryer",
+        "160 °C por 8-12 min em base própria que permita circulação. Papel só sob o peso dos cookies; nunca solto. Fogão não indicado."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em recipiente fechado. Esta versão leva fruta fresca e mantém umidade.",
+    "freeze": "Sim, já assados, por até 30 dias para melhor qualidade. Separe as porções com papel e feche bem.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Pode comer frio. Para aquecer, use forno ou airfryer, sem deixar queimar.",
+    "tip": "A banana liga a massa; esta receita não precisa de ovo nem de fermento.",
+    "allergens": "Amendoim; possível leite, soja e glúten nos rótulos.",
+    "equipment": "Tigela; garfo; assadeira",
+    "alternative_categories": [],
+    "image": "assets/photos/21.webp",
+    "thumbnail": "assets/photos/21-small.webp",
+    "active_minutes": 25,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 4,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "22",
+    "title": "Bolo de cenoura em porções",
+    "subtitle": "Aveia e uma cobertura fina de chocolate",
+    "category": "Lanche",
+    "time": "45 min",
+    "yield_text": "8 pedaços pequenos",
+    "serving": "2 pedaços = 1 lanche; rende 4 porções.",
+    "ingredients": [
+      [
+        "Cenoura limpa, crua",
+        "150 g"
+      ],
+      [
+        "Ovos sem casca",
+        "100 g / 2 un."
+      ],
+      [
+        "Farinha de aveia",
+        "60 g"
+      ],
+      [
+        "Farinha de trigo",
+        "60 g"
+      ],
+      [
+        "Leite",
+        "60 ml"
+      ],
+      [
+        "Óleo vegetal",
+        "20 ml"
+      ],
+      [
+        "Açúcar",
+        "30 g"
+      ],
+      [
+        "Fermento químico",
+        "5 g"
+      ],
+      [
+        "Chocolate 60-70% para cobrir",
+        "40 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Bata os líquidos",
+        "Aqueça o forno a 180 °C. Bata no liquidificador cenoura, ovos, leite, óleo e açúcar até ficar liso."
+      ],
+      [
+        "Misture",
+        "Transfira para uma tigela. Incorpore as farinhas e, por último, o fermento. Coloque em forma de cerca de 20 x 15 cm, forrada."
+      ],
+      [
+        "Asse",
+        "Asse por 25-35 min, até o centro estar assado e o palito sair sem massa crua. Espere amornar."
+      ],
+      [
+        "Cubra e corte",
+        "Derreta o chocolate em banho-maria ou no micro-ondas em intervalos curtos. Espalhe uma camada fina e corte em 8 partes iguais."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "180 °C por 25-35 min; método principal."
+      ],
+      [
+        "Airfryer",
+        "Use 8 forminhas pequenas: 160 °C, 15-22 min, em levas. Confirme o centro assado. Fogão só para banho-maria da cobertura."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em recipiente fechado, após resfriar rapidamente.",
+    "freeze": "Sim, por até 30 dias para melhor qualidade, já cortado. A cobertura pode ficar esbranquiçada, sem prejudicar a textura do bolo.",
+    "thaw": "Descongele 2 pedaços na geladeira e consuma em até 24 h. Pode servir frio ou aquecer levemente apenas a porção.",
+    "tip": "A lista é para a fornada toda. Use a balança para dividir em 8 pedaços semelhantes.",
+    "allergens": "Ovo, leite e trigo; possível soja no chocolate.",
+    "equipment": "Liquidificador; tigela; forma de 20 x 15 cm",
+    "alternative_categories": [],
+    "image": "assets/photos/22.webp",
+    "thumbnail": "assets/photos/22-small.webp",
+    "active_minutes": 45,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 4,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "23",
+    "title": "Potinho de cheesecake",
+    "subtitle": "Ricota, iogurte e morango com limão",
+    "category": "Lanche",
+    "time": "10 min + 1 h gelando",
+    "yield_text": "2 potinhos",
+    "serving": "1 potinho = 1 lanche; rende 2 porções.",
+    "ingredients": [
+      [
+        "Ricota pasteurizada",
+        "120 g"
+      ],
+      [
+        "Iogurte natural pasteurizado",
+        "170 g"
+      ],
+      [
+        "Morango higienizado",
+        "160 g"
+      ],
+      [
+        "Aveia em flocos finos",
+        "20 g"
+      ],
+      [
+        "Mel",
+        "10 g"
+      ],
+      [
+        "Suco de limão",
+        "5 ml"
+      ],
+      [
+        "Extrato de baunilha",
+        "2 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o creme",
+        "Bata ricota, iogurte, mel, limão e baunilha no mixer até ficar cremoso."
+      ],
+      [
+        "Prepare a fruta",
+        "Amasse os morangos com um garfo, mantendo alguns pedacinhos. Não é necessário cozinhar."
+      ],
+      [
+        "Monte",
+        "Divida igualmente creme e morangos em 2 potes limpos com tampa. Reserve a aveia em 2 porções de 10 g."
+      ],
+      [
+        "Gele e sirva",
+        "Refrigere por pelo menos 1 h. Acrescente a aveia ao servir para manter mais textura."
+      ]
+    ],
+    "methods": [
+      [
+        "Mixer ou liquidificador",
+        "Método principal; sobremesa fria, sem ovo cru."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não são necessários."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, bem fechado. Use laticínios pasteurizados e mantenha refrigerado no transporte.",
+    "freeze": "Não recomendado para o potinho montado: o creme pode separar e o morango soltar muita água.",
+    "thaw": "Não se aplica. Retire da geladeira apenas a porção que vai consumir e sirva fria.",
+    "tip": "A receita rende 2 lanches. Mantenha a aveia seca separada até o momento de comer.",
+    "allergens": "Leite; possível glúten na aveia.",
+    "equipment": "Mixer; tigela; 2 potes com tampa",
+    "alternative_categories": [],
+    "image": "assets/photos/23.webp",
+    "thumbnail": "assets/photos/23-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Liquidificador",
+      "Sem cocção"
+    ],
+    "freezer_status": "none",
+    "base_portions": 2,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "24",
+    "title": "Aveia de geladeira de chocolate",
+    "subtitle": "Iogurte, cacau e pasta de amendoim",
+    "category": "Café da manhã",
+    "time": "5 min + 6 h gelando",
+    "yield_text": "1 pote",
+    "serving": "Pote inteiro no café; metade para um lanche menor.",
+    "ingredients": [
+      [
+        "Aveia em flocos finos",
+        "35 g"
+      ],
+      [
+        "Iogurte natural",
+        "170 g"
+      ],
+      [
+        "Leite",
+        "50 ml"
+      ],
+      [
+        "Cacau em pó sem açúcar",
+        "5 g"
+      ],
+      [
+        "Pasta de amendoim sem açúcar",
+        "10 g"
+      ],
+      [
+        "Banana sem casca, ao servir",
+        "60 g"
+      ],
+      [
+        "Canela",
+        "a gosto"
+      ]
+    ],
+    "steps": [
+      [
+        "Misture a base",
+        "Em um pote limpo com tampa, misture iogurte, leite, cacau, pasta de amendoim e canela."
+      ],
+      [
+        "Hidrate",
+        "Acrescente a aveia e misture bem. Tampe e leve à geladeira por pelo menos 6 h, ou durante a noite."
+      ],
+      [
+        "Finalize",
+        "Na hora de comer, mexa e acrescente a banana em rodelas. Se quiser mais fluido, adicione 1 colher de sopa de água."
+      ],
+      [
+        "Sirva",
+        "Para café da manhã, use o pote inteiro. Se dividir em 2 lanches, divida também a banana e mantenha a outra metade refrigerada."
+      ]
+    ],
+    "methods": [
+      [
+        "Sem cocção",
+        "Mistura a frio; a aveia hidrata na geladeira."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam a esta versão."
+      ]
+    ],
+    "storage": "Base sem banana: até 2 dias a 4 °C ou menos. Acrescente a fruta ao servir. Respeite a validade dos laticínios.",
+    "freeze": "Não recomendado nesta versão com iogurte: a textura pode separar. Melhor montar 1-2 potes por vez.",
+    "thaw": "Não se aplica. Consumir fria, mantendo a porção refrigerada até o momento de servir.",
+    "tip": "O whey não é necessário nesta versão. Se quiser usá-lo, a consistência e a composição mudam; não substitua a aveia por ele.",
+    "allergens": "Leite e amendoim; possível glúten na aveia.",
+    "equipment": "Pote com tampa; colher; balança",
+    "alternative_categories": [
+      "Lanche"
+    ],
+    "image": "assets/photos/24.webp",
+    "thumbnail": "assets/photos/24-small.webp",
+    "active_minutes": 5,
+    "equipment_tags": [
+      "Sem cocção"
+    ],
+    "freezer_status": "none",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": [],
+    "portions_by_meal": {
+      "Café da manhã": 1,
+      "Lanche": 2
+    }
+  },
+  {
+    "id": "25",
+    "title": "Quadradinhos de aveia assada",
+    "subtitle": "Maçã, canela e uma base macia",
+    "category": "Lanche",
+    "time": "40 min",
+    "yield_text": "6 quadrados",
+    "serving": "Lanche: 1 quadrado. Café: 2 + iogurte de 160 g.",
+    "ingredients": [
+      [
+        "Aveia em flocos finos",
+        "120 g"
+      ],
+      [
+        "Maçã sem miolo, com casca",
+        "150 g"
+      ],
+      [
+        "Ovo sem casca",
+        "50 g / 1 un."
+      ],
+      [
+        "Leite",
+        "180 ml"
+      ],
+      [
+        "Açúcar",
+        "15 g"
+      ],
+      [
+        "Óleo vegetal",
+        "10 ml"
+      ],
+      [
+        "Fermento químico",
+        "4 g"
+      ],
+      [
+        "Canela",
+        "1 g"
+      ],
+      [
+        "Iogurte para café da manhã*",
+        "160 g / porção"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare",
+        "Aqueça o forno a 180 °C. Rale metade da maçã e pique o restante. Forre uma forma de cerca de 18 x 18 cm."
+      ],
+      [
+        "Misture",
+        "Bata ovo, leite, óleo e açúcar com um garfo. Junte aveia, maçã e canela. Descanse 5 min e acrescente o fermento."
+      ],
+      [
+        "Asse",
+        "Espalhe na forma e asse por 25-30 min, até firmar e não haver massa crua no centro."
+      ],
+      [
+        "Porcione",
+        "Deixe esfriar e corte em 6 partes iguais. *O iogurte é complemento da opção de café da manhã e não entra na massa."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "180 °C por 25-30 min; método principal."
+      ],
+      [
+        "Airfryer",
+        "160 °C por 18-25 min em forma compatível, sem bloquear o ar. Confira o centro. Fogão não indicado."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos. Guarde em pote fechado após resfriamento rápido; iogurte separado.",
+    "freeze": "Sim, só os quadradinhos, por até 30 dias para melhor qualidade. Embale um a um ou em pares, conforme o uso.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Pode comer frio; se reaquecer, aqueça a porção até 74 °C. Sirva o iogurte frio.",
+    "tip": "Rende 6 lanches ou 3 bases de café da manhã. Para o café, acrescente 160 g de iogurte por porção.",
+    "allergens": "Ovo e leite; possível glúten na aveia.",
+    "equipment": "Tigela; ralador; forma de 18 x 18 cm",
+    "alternative_categories": [
+      "Café da manhã"
+    ],
+    "image": "assets/photos/25.webp",
+    "thumbnail": "assets/photos/25-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 6,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": [],
+    "portions_by_meal": {
+      "Café da manhã": 3,
+      "Lanche": 6
+    }
+  },
+  {
+    "id": "26",
+    "title": "Frango ao curry e iogurte",
+    "subtitle": "Arroz e couve-flor dourada",
+    "category": "Almoço",
+    "time": "30 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Peito de frango cru, em cubos",
+        "150 g"
+      ],
+      [
+        "Arroz branco cru",
+        "45 g"
+      ],
+      [
+        "Couve-flor crua",
+        "180 g"
+      ],
+      [
+        "Iogurte natural integral",
+        "60 g"
+      ],
+      [
+        "Cebola",
+        "40 g"
+      ],
+      [
+        "Azeite total",
+        "7 ml"
+      ],
+      [
+        "Curry em pó",
+        "2 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Sal total",
+        "até 0,7 g"
+      ],
+      [
+        "Água: arroz / frango",
+        "135 ml / 60 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o arroz",
+        "Cozinhe arroz e 135 ml de água, tampado e em fogo baixo, por 12-18 min. Ajuste a água se precisar."
+      ],
+      [
+        "Doure a couve-flor",
+        "Corte em floretes. Misture com 3 ml de azeite e parte do sal. Asse na airfryer a 190 °C por 12-16 min, mexendo."
+      ],
+      [
+        "Cozinhe o frango",
+        "Refogue cebola e alho com 4 ml de azeite. Junte frango, curry, sal e 60 ml de água. Cozinhe por 8-12 min, até 74 °C no centro."
+      ],
+      [
+        "Finalize",
+        "Desligue o fogo. Misture o iogurte ao frango já cozido, sem voltar a ferver, e sirva com o arroz e a couve-flor."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão + airfryer",
+        "Arroz e frango na panela; couve-flor na airfryer."
+      ],
+      [
+        "Forno",
+        "Couve-flor: 210 °C por 20-25 min. O restante fica no fogão; não asse o molho de iogurte."
+      ]
+    ],
+    "storage": "Por conter arroz: resfrie rapidamente e consuma em até 24 h a 4 °C ou menos. Para meal prep, guarde o iogurte separado.",
+    "freeze": "Sim, por até 30 dias, sem o iogurte. Congele a refeição em uma porção no mesmo dia do preparo.",
+    "thaw": "Descongele na geladeira. Reaqueça a base uma única vez até 74 °C; desligue e acrescente os 60 g de iogurte fresco.",
+    "tip": "Para guardar, pese o iogurte em um potinho separado. A receita não usa marinada de frango cru.",
+    "allergens": "Leite; confira os ingredientes do curry.",
+    "equipment": "Panela; frigideira; airfryer ou forno",
+    "alternative_categories": [],
+    "image": "assets/photos/26.webp",
+    "thumbnail": "assets/photos/26-small.webp",
+    "active_minutes": 30,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "27",
+    "title": "Tilápia com cuscuz marroquino",
+    "subtitle": "Abobrinha, tomate e limão",
+    "category": "Almoço",
+    "time": "25 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir toda a receita.",
+    "ingredients": [
+      [
+        "Filé de tilápia cru",
+        "160 g"
+      ],
+      [
+        "Cuscuz marroquino seco",
+        "50 g"
+      ],
+      [
+        "Água fervente para o cuscuz",
+        "65 ml"
+      ],
+      [
+        "Abobrinha crua",
+        "150 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Azeite total",
+        "7 ml"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Salsinha",
+        "3 g"
+      ],
+      [
+        "Sal total",
+        "até 0,7 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Hidrate o cuscuz",
+        "Coloque cuscuz, parte do sal e a água fervente em uma tigela. Tampe por 5 min e solte com garfo. Confira a proporção de água no rótulo."
+      ],
+      [
+        "Salteie os vegetais",
+        "Corte abobrinha e tomate em cubos. Salteie com 3 ml de azeite e metade do alho por 5-7 min. Misture ao cuscuz com a salsinha."
+      ],
+      [
+        "Asse o peixe",
+        "Tempere a tilápia com limão, alho, sal e 4 ml de azeite. Asse na airfryer a 180 °C por 10-15 min, até 63 °C no centro."
+      ],
+      [
+        "Sirva",
+        "Coloque o peixe sobre o cuscuz com vegetais. Para marmitas, resfrie rapidamente e porcione em recipientes rasos."
+      ]
+    ],
+    "methods": [
+      [
+        "Airfryer + fogão",
+        "Peixe na airfryer; vegetais na frigideira; cuscuz hidratado fora do fogo."
+      ],
+      [
+        "Forno",
+        "Peixe: 200 °C por 15-20 min, confirmando 63 °C. O cuscuz não é o flocão de milho."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, em pote fechado, após resfriamento rápido.",
+    "freeze": "Sim, peixe e cuscuz prontos, por até 30 dias. Embale em uma porção; os vegetais ficam mais macios.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Reaqueça até 74 °C, com gotas de água no cuscuz para não ressecar.",
+    "tip": "Cuscuz marroquino é feito de trigo. A hidratação varia por marca; use o volume indicado para 50 g.",
+    "allergens": "Peixe e trigo/glúten.",
+    "equipment": "Airfryer ou forno; frigideira; tigela com tampa",
+    "alternative_categories": [],
+    "image": "assets/photos/27.webp",
+    "thumbnail": "assets/photos/27-small.webp",
+    "active_minutes": 25,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "28",
+    "title": "Picadinho com arroz e feijão",
+    "subtitle": "Carne, cenoura e abobrinha em uma marmita",
+    "category": "Almoço",
+    "time": "35 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir a receita inteira.",
+    "ingredients": [
+      [
+        "Patinho cru, em cubos pequenos",
+        "140 g"
+      ],
+      [
+        "Arroz branco cru",
+        "40 g"
+      ],
+      [
+        "Feijão cozido, com pouco caldo",
+        "100 g"
+      ],
+      [
+        "Cenoura crua",
+        "80 g"
+      ],
+      [
+        "Abobrinha crua",
+        "100 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Cebola",
+        "40 g"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Azeite total",
+        "6 ml"
+      ],
+      [
+        "Sal total",
+        "até 0,7 g"
+      ],
+      [
+        "Água: arroz / picadinho",
+        "120 ml / 100 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe o arroz",
+        "Leve o arroz e 120 ml de água ao fogo baixo, com tampa, por 12-18 min. Ajuste a água se necessário."
+      ],
+      [
+        "Doure a carne",
+        "Aqueça o azeite e doure a carne. Junte cebola, alho e tomate. Refogue por 3 min e acrescente a cenoura em cubinhos e 100 ml de água."
+      ],
+      [
+        "Cozinhe e finalize",
+        "Tampe e cozinhe por 10-15 min, até a carne e a cenoura amaciarem. Junte a abobrinha e o sal; cozinhe por mais 5 min. Carne: 63 °C e 3 min de descanso."
+      ],
+      [
+        "Monte",
+        "Aqueça o feijão até borbulhar. Sirva com arroz e picadinho ou resfrie rapidamente para montar uma marmita."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal. Corte a carne em cubos de cerca de 1 cm para cozinhar mais rápido."
+      ],
+      [
+        "Airfryer / forno",
+        "Não indicados para este picadinho com caldo. Arroz e feijão ficam na panela."
+      ]
+    ],
+    "storage": "Com arroz: refrigere rapidamente, idealmente em até 1 h, e consuma em até 24 h a 4 °C ou menos.",
+    "freeze": "Sim, em marmita individual por até 30 dias. Congele no próprio dia, após resfriamento rápido.",
+    "thaw": "Descongele na geladeira. Reaqueça uma única vez até 74 °C, mexendo na metade; use gotas de água no arroz.",
+    "tip": "Feijão já cozido agiliza o preparo. Se usar enlatado, prefira pouco sal e ajuste o sal final.",
+    "allergens": "Confira traços nos produtos industrializados.",
+    "equipment": "Panelas; frigideira funda; tábua",
+    "alternative_categories": [],
+    "image": "assets/photos/28.webp",
+    "thumbnail": "assets/photos/28-small.webp",
+    "active_minutes": 35,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "30",
+    "title": "Escondidinho de frango e abóbora",
+    "subtitle": "Purê misto com espinafre e ricota",
+    "category": "Almoço",
+    "time": "40 min",
+    "yield_text": "1 refratário individual",
+    "serving": "Consumir o refratário inteiro.",
+    "ingredients": [
+      [
+        "Frango já cozido e desfiado",
+        "100 g"
+      ],
+      [
+        "Abóbora cabotiá limpa, crua",
+        "150 g"
+      ],
+      [
+        "Batata crua, sem casca",
+        "120 g"
+      ],
+      [
+        "Espinafre cru",
+        "100 g"
+      ],
+      [
+        "Ricota pasteurizada",
+        "40 g"
+      ],
+      [
+        "Leite",
+        "30 ml"
+      ],
+      [
+        "Muçarela",
+        "15 g"
+      ],
+      [
+        "Cebola",
+        "30 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Sal total",
+        "até 0,7 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o purê",
+        "Cozinhe batata e abóbora em água até ficarem macias, por 12-18 min. Escorra bem. Amasse com leite e parte do sal."
+      ],
+      [
+        "Prepare o recheio",
+        "Refogue cebola e alho no azeite. Junte espinafre e deixe murchar. Acrescente frango desfiado, ricota e restante do sal."
+      ],
+      [
+        "Monte",
+        "Coloque o recheio em refratário individual. Cubra com o purê e a muçarela. Use apenas recipiente próprio para o equipamento."
+      ],
+      [
+        "Gratine",
+        "Leve ao forno a 200 °C por 12-18 min, até dourar e o centro chegar a 74 °C. Sirva após um breve descanso."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão + forno",
+        "Purê e recheio no fogão; gratine no forno a 200 °C."
+      ],
+      [
+        "Airfryer",
+        "Depois de montar: 180 °C por 8-12 min, confirmando 74 °C no centro. Use refratário compatível."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos. O prazo do frango previamente cozido também conta; não reinicie a validade.",
+    "freeze": "Sim, já assado, por até 30 dias. Resfrie e congele em recipiente individual apropriado; identifique a data.",
+    "thaw": "Descongele na geladeira. Aqueça no forno ou micro-ondas até 74 °C no centro; gratine ao final se desejar.",
+    "tip": "Os 100 g de frango são o peso já cozido; equivalem aproximadamente a 130-150 g crus, dependendo da perda no preparo.",
+    "allergens": "Leite.",
+    "equipment": "Panela; frigideira; refratário individual",
+    "alternative_categories": [],
+    "image": "assets/photos/30.webp",
+    "thumbnail": "assets/photos/30-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Fogão",
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "31",
+    "title": "Macarrão integral com atum",
+    "subtitle": "Tomate, abobrinha e manjericão",
+    "category": "Almoço",
+    "time": "20 min",
+    "yield_text": "1 prato completo",
+    "serving": "Consumir toda a receita.",
+    "ingredients": [
+      [
+        "Macarrão integral seco",
+        "60 g"
+      ],
+      [
+        "Atum em água, escorrido",
+        "100 g"
+      ],
+      [
+        "Tomate",
+        "150 g"
+      ],
+      [
+        "Abobrinha crua",
+        "120 g"
+      ],
+      [
+        "Cebola",
+        "30 g"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Manjericão",
+        "3 g"
+      ],
+      [
+        "Sal total",
+        "até 0,4 g"
+      ],
+      [
+        "Água para cozinhar a massa",
+        "1 litro"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe a massa",
+        "Ferva a água e cozinhe o macarrão pelo tempo do rótulo, até ficar al dente. Reserve 60 ml da água do cozimento antes de escorrer."
+      ],
+      [
+        "Faça o molho",
+        "Aqueça o azeite e refogue cebola e alho. Junte tomate picado e abobrinha em cubinhos. Cozinhe por 6-8 min, mexendo."
+      ],
+      [
+        "Acrescente o atum",
+        "Junte o atum escorrido e parte da água reservada. Aqueça por 2-3 min, misture a massa e ajuste o sal."
+      ],
+      [
+        "Finalize",
+        "Acrescente o manjericão. Sirva ou resfrie rapidamente em recipiente raso para guardar."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, com panela e frigideira. A água reservada dá liga ao molho."
+      ],
+      [
+        "Airfryer / forno",
+        "Não necessários. Para reaquecer, prefira panela tampada ou micro-ondas com gotas de água."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, em pote fechado. Resfrie rapidamente após preparar.",
+    "freeze": "Sim, por até 30 dias, com o molho envolvendo a massa. A textura do macarrão ficará mais macia.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Reaqueça com um pouco de água até 74 °C no centro.",
+    "tip": "Atum em conserva já tem sal. Use o sal previsto só após provar o molho.",
+    "allergens": "Peixe e trigo/glúten; possível ovo na massa.",
+    "equipment": "Panela; frigideira; escorredor",
+    "alternative_categories": [],
+    "image": "assets/photos/31.webp",
+    "thumbnail": "assets/photos/31-small.webp",
+    "active_minutes": 20,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "32",
+    "title": "Koftas com batatas e tzatziki",
+    "subtitle": "Carne temperada e molho frio de iogurte",
+    "category": "Almoço",
+    "time": "40 min",
+    "yield_text": "1 prato completo",
+    "serving": "4 koftas, toda a batata, cenoura e molho.",
+    "ingredients": [
+      [
+        "Carne bovina moída magra crua",
+        "150 g"
+      ],
+      [
+        "Batata crua",
+        "180 g"
+      ],
+      [
+        "Cenoura crua",
+        "100 g"
+      ],
+      [
+        "Iogurte natural integral",
+        "80 g"
+      ],
+      [
+        "Pepino com casca",
+        "60 g"
+      ],
+      [
+        "Cebola ralada e espremida",
+        "20 g"
+      ],
+      [
+        "Azeite total",
+        "7 ml"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Alho",
+        "3 g / 1 dente"
+      ],
+      [
+        "Cominho",
+        "0,5 g"
+      ],
+      [
+        "Sal total",
+        "até 0,7 g"
+      ],
+      [
+        "Hortelã",
+        "2 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Asse os vegetais",
+        "Corte batata e cenoura em gomos finos. Misture com 5 ml de azeite e parte do sal. Asse a 220 °C por 30-35 min, virando na metade."
+      ],
+      [
+        "Modele as koftas",
+        "Misture carne, cebola, metade do alho, cominho e parte do sal. Modele 4 rolinhos curtos. Pincele com 2 ml de azeite."
+      ],
+      [
+        "Cozinhe a carne",
+        "Coloque as koftas em outra assadeira. Asse a 220 °C por 15-20 min, virando, até 71 °C no centro. Podem entrar junto na etapa final dos vegetais."
+      ],
+      [
+        "Faça o tzatziki",
+        "Rale o pepino e esprema bem. Misture com iogurte, limão, hortelã, restante do alho e sal. Mantenha frio e sirva com os itens assados."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "Método principal. Faça o molho frio, separado dos alimentos crus."
+      ],
+      [
+        "Airfryer",
+        "Vegetais: 200 °C, 20-25 min. Koftas em outra leva: 190 °C, 10-15 min, até 71 °C."
+      ]
+    ],
+    "storage": "Carne e vegetais: até 3 dias a 4 °C ou menos. Molho separado: até 2 dias; mexa antes de servir.",
+    "freeze": "Sim, apenas koftas já cozidas e vegetais, por até 30 dias. Não congele o molho de pepino e iogurte.",
+    "thaw": "Descongele na geladeira. Reaqueça carne e vegetais até 74 °C. Prepare o molho fresco e sirva frio.",
+    "tip": "Não é necessário usar espetos. Espremer o pepino evita que o molho fique aguado.",
+    "allergens": "Leite.",
+    "equipment": "Assadeiras ou airfryer; ralador; tigelas",
+    "alternative_categories": [],
+    "image": "assets/photos/32.webp",
+    "thumbnail": "assets/photos/32-small.webp",
+    "active_minutes": 40,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "33",
+    "title": "Frittata de legumes e ricota",
+    "subtitle": "Ovos, brócolis, tomate e batata",
+    "category": "Jantar",
+    "time": "35 min",
+    "yield_text": "1 frittata individual",
+    "serving": "Consumir a frittata inteira.",
+    "ingredients": [
+      [
+        "Ovos sem casca",
+        "100 g / 2 un."
+      ],
+      [
+        "Ricota pasteurizada",
+        "60 g"
+      ],
+      [
+        "Batata crua, sem casca",
+        "180 g"
+      ],
+      [
+        "Brócolis cru",
+        "100 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Azeite total",
+        "5 ml"
+      ],
+      [
+        "Leite",
+        "30 ml"
+      ],
+      [
+        "Sal total",
+        "até 0,6 g"
+      ],
+      [
+        "Orégano",
+        "0,5 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Pré-cozinhe",
+        "Corte a batata em cubos de 1 cm e cozinhe em água por 8-10 min. Junte o brócolis nos 3 min finais. Escorra muito bem."
+      ],
+      [
+        "Misture",
+        "Bata os ovos com leite, sal e orégano. Incorpore ricota esfarelada e tomate picado."
+      ],
+      [
+        "Monte",
+        "Unte um refratário de cerca de 15 cm com o azeite. Distribua batata e brócolis e cubra com a mistura de ovos."
+      ],
+      [
+        "Asse",
+        "Asse no forno a 180 °C por 20-25 min, até firmar no centro e atingir 74 °C. Descanse 3 min antes de cortar."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão + forno",
+        "Pré-cozimento na panela; frittata no forno, em refratário próprio."
+      ],
+      [
+        "Airfryer",
+        "180 °C por cerca de 15-20 min, após pré-cozinhar os vegetais. Confirme 74 °C no centro."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos. Resfrie rapidamente e guarde em pote fechado.",
+    "freeze": "Sim, já assada, por até 30 dias. Embale individualmente; tomate e ricota podem liberar um pouco de água.",
+    "thaw": "Descongele na geladeira e consuma em até 24 h. Reaqueça em forno ou micro-ondas até 74 °C no centro.",
+    "tip": "Escorrer bem os vegetais ajuda a frittata a firmar. Não congele a mistura com ovo ainda cru nesta receita.",
+    "allergens": "Ovo e leite.",
+    "equipment": "Panela; tigela; refratário de cerca de 15 cm",
+    "alternative_categories": [
+      "Almoço"
+    ],
+    "image": "assets/photos/33.webp",
+    "thumbnail": "assets/photos/33-small.webp",
+    "active_minutes": 35,
+    "equipment_tags": [
+      "Fogão",
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 1,
+    "is_creami": false,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": [
+      "vegetariana"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Iogurte com maçã e aveia",
+    "subtitle": "Maçã com canela e farofinha crocante",
+    "category": "Lanche",
+    "time": "15 min",
+    "yield_text": "2 potes",
+    "serving": "1 pote: metade de cada componente.",
+    "ingredients": [
+      [
+        "Iogurte natural integral",
+        "340 g"
+      ],
+      [
+        "Maçã sem miolo, com casca",
+        "160 g"
+      ],
+      [
+        "Aveia em flocos",
+        "30 g"
+      ],
+      [
+        "Castanha-de-caju sem sal",
+        "20 g"
+      ],
+      [
+        "Mel",
+        "10 g"
+      ],
+      [
+        "Canela",
+        "1 g"
+      ],
+      [
+        "Água",
+        "20 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe a maçã",
+        "Corte a maçã em cubinhos. Leve à panela com a água e metade da canela por 4-6 min, até amaciar. Deixe esfriar rapidamente."
+      ],
+      [
+        "Toste a aveia",
+        "Em frigideira seca, toste aveia e castanhas picadas por 3-4 min, mexendo em fogo baixo. Desligue e misture mel e restante da canela."
+      ],
+      [
+        "Esfrie e divida",
+        "Espalhe a farofinha em um prato para esfriar. Divida iogurte e maçã em 2 potes limpos; mantenha a cobertura separada."
+      ],
+      [
+        "Sirva",
+        "Acrescente metade da farofinha em cada pote apenas na hora de comer, para manter a textura crocante."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Maçã em panela e aveia em frigideira. Iogurte permanece frio."
+      ],
+      [
+        "Airfryer / forno",
+        "Não necessários. A quantidade pequena de aveia fica mais fácil de controlar na frigideira."
+      ]
+    ],
+    "storage": "Potes de iogurte e maçã: até 2 dias a 4 °C ou menos. Farofinha fria: pote seco e fechado, separado.",
+    "freeze": "Congele somente a maçã cozida, por até 30 dias. Iogurte e cobertura devem ficar separados para preservar a textura.",
+    "thaw": "Descongele a maçã na geladeira, consuma em até 24 h e monte com o iogurte frio e a cobertura.",
+    "tip": "Rende dois lanches. O mel faz parte da cobertura; não é necessário adoçar também o iogurte.",
+    "allergens": "Leite e castanha-de-caju; possível glúten na aveia.",
+    "equipment": "Panela; frigideira; dois potes com tampa",
+    "alternative_categories": [],
+    "image": "assets/photos/34.webp",
+    "thumbnail": "assets/photos/34-small.webp",
+    "active_minutes": 15,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 2,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "35",
+    "title": "Patê de iogurte e grão-de-bico",
+    "subtitle": "Com torradas integrais e palitos de cenoura",
+    "category": "Lanche",
+    "time": "10 min",
+    "yield_text": "2 lanches",
+    "serving": "Metade do patê, 2 torradas e 80 g de cenoura.",
+    "ingredients": [
+      [
+        "Grão-de-bico cozido e escorrido",
+        "150 g"
+      ],
+      [
+        "Iogurte natural integral",
+        "170 g"
+      ],
+      [
+        "Pão integral",
+        "100 g / 4 fatias"
+      ],
+      [
+        "Cenoura crua",
+        "160 g"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Salsinha",
+        "3 g"
+      ],
+      [
+        "Sal",
+        "até 0,4 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça o patê",
+        "Bata grão-de-bico, iogurte, limão, azeite e sal em processador pequeno, ou amasse muito bem com um garfo."
+      ],
+      [
+        "Tempere",
+        "Misture a salsinha picada. Divida o patê em dois potinhos e mantenha refrigerado."
+      ],
+      [
+        "Toste o pão",
+        "Corte as fatias ao meio se desejar e toste em frigideira seca, dos dois lados, até ficarem crocantes."
+      ],
+      [
+        "Sirva",
+        "Corte a cenoura higienizada em palitos. Sirva cada metade do patê com 2 fatias torradas e 80 g de cenoura."
+      ]
+    ],
+    "methods": [
+      [
+        "Sem cocção + fogão",
+        "Patê batido a frio; pão tostado em frigideira."
+      ],
+      [
+        "Airfryer / forno",
+        "Pão: airfryer a 160 °C por 3-5 min ou forno a 180 °C por 8-10 min. Não aqueça o patê."
+      ]
+    ],
+    "storage": "Patê e cenoura: até 2 dias a 4 °C ou menos, em potes separados. Torre o pão perto de servir.",
+    "freeze": "Não recomendado para o patê pronto com iogurte. Pode congelar só o pão, bem embalado, por até 30 dias.",
+    "thaw": "Patê e cenoura são servidos frios. Leve o pão congelado à torradeira ou airfryer e aqueça até ficar crocante.",
+    "tip": "O grão-de-bico da lista já está cozido. Para uma porção menor, use metade de um lanche e guarde o restante refrigerado.",
+    "allergens": "Leite e trigo/glúten; confira os ingredientes do pão.",
+    "equipment": "Processador ou garfo; frigideira; dois potes",
+    "alternative_categories": [],
+    "image": "assets/photos/35.webp",
+    "thumbnail": "assets/photos/35-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Sem cocção",
+      "Fogão",
+      "Forno",
+      "Airfryer"
+    ],
+    "freezer_status": "partial",
+    "base_portions": 2,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "36",
+    "title": "Gelatina de morango com iogurte",
+    "subtitle": "Taça em camadas com morangos frescos",
+    "category": "Lanche",
+    "time": "10 min + 4 h",
+    "yield_text": "4 taças",
+    "serving": "1 taça: 1/4 da gelatina, do iogurte e da fruta.",
+    "ingredients": [
+      [
+        "Gelatina de morango em pó*",
+        "20 g"
+      ],
+      [
+        "Água fervente",
+        "250 ml"
+      ],
+      [
+        "Água fria",
+        "250 ml"
+      ],
+      [
+        "Iogurte natural integral",
+        "340 g"
+      ],
+      [
+        "Morango higienizado",
+        "120 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Dissolva",
+        "Misture o pó na água fervente até dissolver. Acrescente a água fria e mexa. *Use a dose do seu produto indicada para preparar 500 ml; a referência aqui é 20 g."
+      ],
+      [
+        "Gele",
+        "Divida em 4 taças com tampa. Leve à geladeira por cerca de 4 h, até firmar; o tempo varia com o tamanho do recipiente."
+      ],
+      [
+        "Prepare os complementos",
+        "Pese 85 g de iogurte e 30 g de morango por taça. Mantenha ambos refrigerados e separados até servir."
+      ],
+      [
+        "Monte",
+        "Cubra uma porção de gelatina firme com o iogurte e o morango picado. Sirva fria como lanche ou sobremesa."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão / chaleira + geladeira",
+        "Aqueça só a água. Iogurte e fruta entram frios, depois de a gelatina firmar."
+      ],
+      [
+        "Airfryer / forno / Creami",
+        "Não se aplicam. Esta receita é uma gelatina de colher, preparada na geladeira."
+      ]
+    ],
+    "storage": "Gelatina e complementos separados: até 3 dias a 4 °C ou menos, respeitando a validade do iogurte. Monte perto de comer.",
+    "freeze": "Não recomendado: gelatina descongelada pode soltar água e perder a textura. Prepare apenas o que usará nos próximos dias.",
+    "thaw": "Não descongele nem aqueça. Retire somente a taça que será consumida e sirva gelada.",
+    "tip": "A massa de pó varia por marca e por versão. Confira o rendimento de 500 ml no rótulo; não troque por gelatina incolor na mesma quantidade.",
+    "allergens": "Leite; conferir alergênicos e advertências da gelatina no rótulo.",
+    "equipment": "Chaleira ou panela; jarra; quatro taças",
+    "alternative_categories": [],
+    "image": "assets/photos/36.webp",
+    "thumbnail": "assets/photos/36-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Fogão",
+      "Geladeira"
+    ],
+    "freezer_status": "none",
+    "base_portions": 4,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": true,
+    "search_tags": []
+  },
+  {
+    "id": "37",
+    "title": "Creme de gelatina de limão",
+    "subtitle": "Iogurte natural e raspas cítricas",
+    "category": "Lanche",
+    "time": "10 min + 4 h",
+    "yield_text": "4 potinhos",
+    "serving": "1 potinho: 1/4 da receita.",
+    "ingredients": [
+      [
+        "Gelatina de limão em pó*",
+        "20 g"
+      ],
+      [
+        "Água fervente",
+        "150 ml"
+      ],
+      [
+        "Água fria",
+        "100 ml"
+      ],
+      [
+        "Iogurte natural integral",
+        "340 g"
+      ],
+      [
+        "Raspas de limão higienizado",
+        "1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Dissolva a gelatina",
+        "Dissolva completamente o pó nos 150 ml de água fervente. *Use a dose de pó que no rótulo rende 500 ml de gelatina; aqui a referência é 20 g."
+      ],
+      [
+        "Esfrie a mistura",
+        "Acrescente 100 ml de água fria e mexa. Aguarde amornar, sem deixar firmar. Não bata líquidos quentes em liquidificador fechado."
+      ],
+      [
+        "Bata com iogurte",
+        "Junte o iogurte frio e bata brevemente até ficar uniforme. Misture as raspas e divida em 4 potinhos."
+      ],
+      [
+        "Deixe firmar",
+        "Tampe e leve à geladeira por cerca de 4 h ou até ganhar consistência de creme firme. Sirva gelado."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão / chaleira + liquidificador",
+        "Aqueça somente a água; bata a mistura já morna com o iogurte frio."
+      ],
+      [
+        "Airfryer / forno / Creami",
+        "Não se aplicam. A quantidade de água é menor porque o iogurte completa a base."
+      ]
+    ],
+    "storage": "Até 3 dias a 4 °C ou menos, em potes tampados. A validade do iogurte após abrir prevalece se for menor.",
+    "freeze": "Não recomendado: o creme pode separar e perder a textura ao descongelar. Prefira pequenos lotes refrigerados.",
+    "thaw": "Consumir frio, direto da geladeira. Não aqueça e não deixe os potes por horas na bancada.",
+    "tip": "A gelatina já traz doçura e sabor. Não é necessário acrescentar leite condensado, creme de leite ou açúcar.",
+    "allergens": "Leite; conferir alergênicos e advertências da gelatina no rótulo.",
+    "equipment": "Jarra; liquidificador; quatro potinhos",
+    "alternative_categories": [],
+    "image": "assets/photos/37.webp",
+    "thumbnail": "assets/photos/37-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Fogão",
+      "Liquidificador",
+      "Geladeira"
+    ],
+    "freezer_status": "none",
+    "base_portions": 4,
+    "is_creami": false,
+    "has_yogurt": true,
+    "has_gelatin": true,
+    "search_tags": []
+  },
+  {
+    "id": "38",
+    "title": "Creami de morango e iogurte",
+    "subtitle": "Base cremosa para preparar com antecedência",
+    "category": "Lanche",
+    "time": "10 min + 24 h",
+    "yield_text": "1 pote / 2 porções",
+    "serving": "Metade do pote processado por lanche.",
+    "ingredients": [
+      [
+        "Iogurte natural integral",
+        "200 g"
+      ],
+      [
+        "Morango fresco higienizado",
+        "150 g"
+      ],
+      [
+        "Leite integral para a base",
+        "30 ml"
+      ],
+      [
+        "Açúcar",
+        "20 g"
+      ],
+      [
+        "Leite extra, se precisar de Re-Spin",
+        "15-30 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Bata a base",
+        "Bata iogurte, morango, 30 ml de leite e açúcar até ficar totalmente liso. Use frutas frescas ou descongeladas na geladeira antes de bater."
+      ],
+      [
+        "Congele nivelado",
+        "Transfira para o pote original compatível, sem ultrapassar MAX FILL. Tampe e congele por pelo menos 24 h, com o pote em pé sobre uma superfície plana."
+      ],
+      [
+        "Processe",
+        "Referência: Creami padrão, pote de 473 ml. Retire a tampa, monte conforme o manual e selecione LITE ICE CREAM. A base deve estar congelada e nivelada."
+      ],
+      [
+        "Ajuste e sirva",
+        "Se ficar farelento após o ciclo, acrescente 15 ml de leite e use RE-SPIN. Só se necessário, repita com mais 15 ml. Divida em duas porções."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador + Ninja Creami",
+        "Base de cerca de 400 ml. Referência NC300/473 ml; outros modelos exigem conferir o manual e o programa."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam. Não reduza o açúcar nem troque por água ou gelo: a textura e a dureza mudam."
+      ]
+    ],
+    "storage": "Base líquida: até 24 h a 4 °C ou menos antes de congelar. Depois de processar, sirva logo e guarde o restante no freezer.",
+    "freeze": "Sim. Base e sobras: até 14 dias por qualidade, a -18 °C ou menos. Antes de recongelar a sobra no pote, alise toda a superfície.",
+    "thaw": "Processe a base ainda congelada, sem descongelar. Sobra recongelada: espere 24 h e repita LITE ICE CREAM; não comece apenas com RE-SPIN.",
+    "tip": "Não processe gelo puro, pedaços soltos de fruta congelada ou base inclinada. Leia a página Creami no guia antes do primeiro uso.",
+    "allergens": "Leite.",
+    "equipment": "Liquidificador; Ninja Creami; pote original compatível",
+    "alternative_categories": [],
+    "image": "assets/photos/38.webp",
+    "thumbnail": "assets/photos/38-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Liquidificador",
+      "Ninja Creami"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 2,
+    "is_creami": true,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "39",
+    "title": "Creami de banana e cacau",
+    "subtitle": "Com iogurte e whey de baunilha ou chocolate",
+    "category": "Lanche",
+    "time": "10 min + 24 h",
+    "yield_text": "1 pote / 2 porções",
+    "serving": "Metade do pote processado por lanche.",
+    "ingredients": [
+      [
+        "Banana madura sem casca",
+        "140 g"
+      ],
+      [
+        "Leite integral para a base",
+        "150 ml"
+      ],
+      [
+        "Iogurte natural integral",
+        "80 g"
+      ],
+      [
+        "Whey",
+        "15 g"
+      ],
+      [
+        "Cacau em pó sem açúcar",
+        "8 g"
+      ],
+      [
+        "Açúcar",
+        "10 g"
+      ],
+      [
+        "Leite extra, se precisar de Re-Spin",
+        "15-30 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare a base",
+        "Bata banana, 150 ml de leite, iogurte, whey, cacau e açúcar. Raspe as laterais e bata até não restarem grumos."
+      ],
+      [
+        "Congele",
+        "Despeje no pote original compatível, abaixo de MAX FILL. Tampe e congele por pelo menos 24 h em superfície nivelada."
+      ],
+      [
+        "Use a Creami",
+        "Referência: Creami padrão de 473 ml. Retire a tampa e monte a máquina conforme o manual. Com a base congelada e plana, use LITE ICE CREAM."
+      ],
+      [
+        "Finalize",
+        "Se ficar farelento após o ciclo, junte 15 ml de leite e use RE-SPIN. Se ainda precisar, use mais 15 ml e repita. Sirva metade do pote."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador + Ninja Creami",
+        "Base de cerca de 400 ml, para pote padrão de 473 ml. Confirme compatibilidade no manual do seu modelo."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam. Não acrescente gelo e não substitua a base por whey dissolvido só em água."
+      ]
+    ],
+    "storage": "Base líquida: até 24 h a 4 °C ou menos antes de congelar. Sirva assim que processar e mantenha a sobra no freezer.",
+    "freeze": "Sim, por até 14 dias por qualidade, a -18 °C ou menos. Alise o topo antes de tampar e recongelar a sobra.",
+    "thaw": "Não descongele para processar. Para sobra recongelada e nivelada, aguarde 24 h e use novamente LITE ICE CREAM; RE-SPIN é ajuste após o ciclo.",
+    "tip": "O sabor do whey e a maturação da banana afetam a doçura. As quantidades são uma base culinária; não são uma receita oficial Ninja.",
+    "allergens": "Leite; possível soja e glúten conforme o whey.",
+    "equipment": "Liquidificador; Ninja Creami; pote original compatível",
+    "alternative_categories": [],
+    "image": "assets/photos/39.webp",
+    "thumbnail": "assets/photos/39-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Liquidificador",
+      "Ninja Creami"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 2,
+    "is_creami": true,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "40",
+    "title": "Creami de manga e coco",
+    "subtitle": "Uma opção sem leite de vaca, para servir de colher",
+    "category": "Lanche",
+    "time": "10 min + 24 h",
+    "yield_text": "1 pote / 2 porções",
+    "serving": "Metade do pote processado por lanche.",
+    "ingredients": [
+      [
+        "Manga madura sem casca e caroço",
+        "180 g"
+      ],
+      [
+        "Leite de coco culinário integral",
+        "80 ml"
+      ],
+      [
+        "Bebida de aveia sem açúcar",
+        "100 ml"
+      ],
+      [
+        "Açúcar",
+        "15 g"
+      ],
+      [
+        "Suco de limão",
+        "5 ml"
+      ],
+      [
+        "Bebida de aveia extra para Re-Spin",
+        "15-30 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Bata bem",
+        "Bata manga, leite de coco, 100 ml de bebida de aveia, açúcar e limão até a mistura ficar lisa, sem fibras grossas ou pedaços."
+      ],
+      [
+        "Leve ao freezer",
+        "Coloque no pote original compatível, sem ultrapassar MAX FILL. Tampe e congele por pelo menos 24 h, com o pote em superfície plana."
+      ],
+      [
+        "Processe a base",
+        "Referência: Creami padrão, pote de 473 ml. Monte conforme o manual e selecione LITE ICE CREAM, usando a base ainda congelada e nivelada."
+      ],
+      [
+        "Ajuste a textura",
+        "Se o resultado ficar farelento, adicione 15 ml de bebida de aveia e use RE-SPIN. Se necessário, repita com mais 15 ml. Sirva metade do pote."
+      ]
+    ],
+    "methods": [
+      [
+        "Liquidificador + Ninja Creami",
+        "Base de cerca de 380 ml, para pote padrão de 473 ml. Outros modelos: confirme o programa e o pote no manual."
+      ],
+      [
+        "Airfryer / forno / fogão",
+        "Não se aplicam. Use leite de coco culinário integral; bebida de coco rala altera a proporção da base."
+      ]
+    ],
+    "storage": "Antes de congelar: até 24 h a 4 °C ou menos, em recipiente fechado. Sirva logo após processar; sobra fica no freezer.",
+    "freeze": "Sim, por até 14 dias por qualidade, a -18 °C ou menos. Alise o topo e tampe antes de recongelar a sobra.",
+    "thaw": "Processe direto do freezer, sem descongelar. Sobra recongelada: espere 24 h e repita LITE ICE CREAM; não use só RE-SPIN como primeiro ciclo.",
+    "tip": "É uma adaptação culinária para servir em bolas, não uma base para a função de soft serve. Não processe frutas congeladas soltas.",
+    "allergens": "Coco; possível glúten na bebida de aveia. Confira os rótulos para excluir leite.",
+    "equipment": "Liquidificador; Ninja Creami; pote original compatível",
+    "alternative_categories": [],
+    "image": "assets/photos/40.webp",
+    "thumbnail": "assets/photos/40-small.webp",
+    "active_minutes": 10,
+    "equipment_tags": [
+      "Liquidificador",
+      "Ninja Creami"
+    ],
+    "freezer_status": "yes",
+    "base_portions": 2,
+    "is_creami": true,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "search_tags": []
+  },
+  {
+    "id": "41",
+    "title": "Macaxeira dourada com frango e repolho",
+    "subtitle": "Uma base pronta que vira jantar em poucos minutos",
+    "category": "Jantar",
+    "time": "25 min, com bases cozidas",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade de cada componente: 150 g de macaxeira cozida e 100 g de frango já cozido, mais metade dos legumes.",
+    "ingredients": [
+      [
+        "Macaxeira de mesa cozida e escorrida",
+        "300 g"
+      ],
+      [
+        "Frango cozido e desfiado",
+        "200 g"
+      ],
+      [
+        "Repolho cru em tiras",
+        "160 g"
+      ],
+      [
+        "Tomate",
+        "80 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Azeite total",
+        "10 ml"
+      ],
+      [
+        "Água para o refogado",
+        "80 ml"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Páprica doce",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Doure a macaxeira",
+        "Corte a macaxeira cozida em pedaços. Aqueça 5 ml do azeite em frigideira antiaderente e doure por 8-10 min, virando com cuidado."
+      ],
+      [
+        "Prepare o refogado",
+        "Em outra panela, aqueça os 5 ml de azeite restantes. Refogue cebola e alho por 2 min. Junte repolho e tomate e cozinhe por 4-5 min."
+      ],
+      [
+        "Junte o frango",
+        "Acrescente frango, água, páprica e sal. Cozinhe por 4-6 min, mexendo, até o frango reaquecido atingir 74 °C."
+      ],
+      [
+        "Sirva ou porcione",
+        "Finalize com cheiro-verde. Divida a macaxeira e o refogado em duas partes iguais. Uma parte de cada componente forma um jantar."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Receita completa em frigideira e panela."
+      ],
+      [
+        "Airfryer ou forno + fogão",
+        "Só a macaxeira: airfryer a 190 °C por 10-15 min ou forno a 210 °C por 20-25 min, com metade do azeite. Faça o refogado no fogão."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Separe em 2 embalagens individuais e congele por até 30 dias, por qualidade. O repolho fica mais macio após descongelar.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Reaqueça apenas o que for servir até 74 °C no centro. Aqueça a macaxeira em frigideira com algumas gotas de água antes de dourar.",
+    "tip": "O tempo considera macaxeira e frango já cozidos. Pese esses ingredientes depois de prontos; os legumes são pesados crus.",
+    "allergens": "Confira os rótulos dos ingredientes e temperos utilizados.",
+    "equipment": "Duas panelas ou uma frigideira e uma panela; espátula; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/41.webp",
+    "thumbnail": "assets/photos/41-small.webp",
+    "active_minutes": 25,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Macaxeira com carne moída e cenoura",
+    "subtitle": "Molho caseiro de tomate, cominho e cheiro-verde",
+    "category": "Jantar",
+    "time": "30 min, com macaxeira cozida",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade do preparo: 150 g de macaxeira já cozida e metade da carne com legumes. A carne da lista é pesada crua.",
+    "ingredients": [
+      [
+        "Macaxeira de mesa cozida e escorrida",
+        "300 g"
+      ],
+      [
+        "Patinho moído cru",
+        "300 g"
+      ],
+      [
+        "Cenoura crua",
+        "200 g"
+      ],
+      [
+        "Tomate",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Azeite",
+        "10 ml"
+      ],
+      [
+        "Água",
+        "120 ml"
+      ],
+      [
+        "Cominho",
+        "0,5 g"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare os legumes",
+        "Rale a cenoura no lado grosso. Pique tomate, cebola e alho."
+      ],
+      [
+        "Cozinhe a carne",
+        "Aqueça o azeite, refogue cebola e alho e junte a carne. Cozinhe por 6-8 min, desfazendo os grumos; a carne deve atingir pelo menos 71 °C."
+      ],
+      [
+        "Faça o molho",
+        "Junte cenoura, tomate, água, cominho e sal. Tampe parcialmente e cozinhe por 10-12 min, até a cenoura amaciar e formar um molho espesso."
+      ],
+      [
+        "Finalize",
+        "Junte a macaxeira em pedaços e aqueça por 4-5 min, sem desmanchar. Finalize com cheiro-verde e divida a macaxeira e a carne igualmente entre dois pratos."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; uma panela larga é suficiente."
+      ],
+      [
+        "Airfryer ou forno + fogão",
+        "Para macaxeira crocante, use 5 ml do azeite nela e os 5 ml restantes na carne. Airfryer: 190 °C por 10-15 min; forno: 210 °C por 20-25 min. Carne e molho ficam no fogão."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele em 2 porções individuais por até 30 dias, por qualidade. Mantenha a macaxeira junto do molho para reduzir o ressecamento.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Reaqueça apenas o que for servir até 74 °C no centro.",
+    "tip": "O tomate fresco e a cenoura ajudam a formar o molho; não precisa acrescentar molho pronto.",
+    "allergens": "Confira os rótulos dos ingredientes e temperos utilizados.",
+    "equipment": "Panela larga; ralador; faca; espátula; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/42.webp",
+    "thumbnail": "assets/photos/42-small.webp",
+    "active_minutes": 30,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Batata-doce assada com tilápia e abobrinha",
+    "subtitle": "Limão, alho e uma assadeira para facilitar",
+    "category": "Jantar",
+    "time": "45 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "1 filé e metade dos legumes e da batata. Antes de assar: 160 g de peixe cru e 180 g de batata-doce crua por porção.",
+    "ingredients": [
+      [
+        "Batata-doce crua, limpa",
+        "360 g"
+      ],
+      [
+        "Filé de tilápia cru",
+        "320 g / 2 filés"
+      ],
+      [
+        "Abobrinha crua",
+        "300 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Suco de limão",
+        "20 ml"
+      ],
+      [
+        "Azeite total",
+        "10 ml"
+      ],
+      [
+        "Páprica doce",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ],
+      [
+        "Salsinha",
+        "5 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Comece pela batata",
+        "Aqueça o forno a 210 °C. Corte a batata-doce em cubos de 2 cm, misture com 5 ml de azeite, páprica e metade do sal. Asse por 20 min."
+      ],
+      [
+        "Prepare o peixe",
+        "Misture os filés com limão, alho e o restante do sal. Corte a abobrinha em meias-luas grossas e a cebola em pétalas."
+      ],
+      [
+        "Complete a assadeira",
+        "Vire a batata e abra espaço. Acrescente abobrinha, cebola e os filés, sem sobrepor, com os 5 ml de azeite restantes. Asse por mais 15-20 min, até o peixe atingir 63 °C e a batata ficar macia."
+      ],
+      [
+        "Porcione",
+        "Distribua 1 filé e metade de cada acompanhamento por refeição. Finalize com salsinha. Use duas assadeiras se faltar espaço, para não cozinhar tudo no vapor."
+      ]
+    ],
+    "methods": [
+      [
+        "Forno",
+        "210 °C; batata começa antes do peixe. Tempos variam com o tamanho dos filés e dos cubos."
+      ],
+      [
+        "Airfryer",
+        "Faça em levas: batata a 190 °C por 18-25 min; abobrinha e cebola a 180 °C por 8-12 min; peixe a 180 °C por 8-12 min, até 63 °C. Não sobreponha os filés."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, em recipiente fechado, após resfriamento rápido.",
+    "freeze": "Sim, já cozido, por até 30 dias, por qualidade. Embale em 2 porções. A abobrinha pode soltar água; mantenha-a em compartimento separado se preferir.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Reaqueça apenas o que for servir até 74 °C no centro. Prefira forno coberto ou micro-ondas em etapas curtas para não ressecar o peixe.",
+    "tip": "Batata-doce é pesada crua nesta receita. Não use o mesmo peso de batata já cozida como equivalência automática.",
+    "allergens": "Peixe.",
+    "equipment": "Assadeira grande; faca; tigela; termômetro culinário; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/43.webp",
+    "thumbnail": "assets/photos/43-small.webp",
+    "active_minutes": 45,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Forno",
+      "Airfryer"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Batata-doce recheada com frango e iogurte",
+    "subtitle": "Molho frio de limão para finalizar na hora",
+    "category": "Jantar",
+    "time": "25 min, com bases cozidas",
+    "yield_text": "2 porções de jantar",
+    "serving": "1 batata de cerca de 200 g já cozida, metade do recheio com 100 g de frango cozido e 40 g do iogurte do molho.",
+    "ingredients": [
+      [
+        "Batata-doce cozida e firme, com casca",
+        "400 g / 2 unidades"
+      ],
+      [
+        "Frango cozido e desfiado",
+        "200 g"
+      ],
+      [
+        "Tomate",
+        "160 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "4 g"
+      ],
+      [
+        "Iogurte natural integral",
+        "80 g"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ],
+      [
+        "Azeite",
+        "10 ml"
+      ],
+      [
+        "Água para o recheio",
+        "60 ml"
+      ],
+      [
+        "Cebolinha",
+        "5 g"
+      ],
+      [
+        "Páprica doce",
+        "1 g"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Aqueça as batatas",
+        "Use duas batatas já cozidas, firmes e de tamanho parecido. Aqueça a 180 °C na airfryer por 8-12 min ou a 200 °C no forno por 15-20 min."
+      ],
+      [
+        "Faça o recheio",
+        "Refogue cebola e alho no azeite. Junte tomate, frango, água, páprica e metade do sal. Cozinhe por 5-7 min até ficar úmido e atingir 74 °C."
+      ],
+      [
+        "Prepare o molho",
+        "Em pote separado, misture iogurte, limão, cebolinha e o sal restante. Mantenha refrigerado até servir."
+      ],
+      [
+        "Recheie e sirva",
+        "Abra as batatas no comprimento e solte a polpa com garfo. Divida o recheio e o molho igualmente entre as duas. Junte o molho só na hora de comer."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão + airfryer ou forno",
+        "Recheio no fogão; batata já cozida aquecida conforme o primeiro passo."
+      ],
+      [
+        "Só fogão",
+        "Aqueça as batatas no vapor até o centro ficar quente. O acabamento fica macio, sem a casca crocante."
+      ]
+    ],
+    "storage": "Batata e recheio: até 3 dias a 4 °C ou menos. Molho separado: até 2 dias ou o prazo do rótulo após abrir, o que for menor.",
+    "freeze": "Parcialmente. Congele apenas batata e recheio, em 2 porções, por até 30 dias, por qualidade. Faça o molho de iogurte depois, na hora de consumir.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Reaqueça apenas o que for servir até 74 °C no centro. Acrescente o molho de iogurte frio apenas depois do reaquecimento.",
+    "tip": "Use iogurte natural sem açúcar. O molho não precisa ser aquecido nem misturado ao recheio que será congelado.",
+    "allergens": "Leite.",
+    "equipment": "Frigideira; pote para molho; airfryer, forno ou panela para vapor; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "partial",
+    "image": "assets/photos/44.webp",
+    "thumbnail": "assets/photos/44-small.webp",
+    "active_minutes": 25,
+    "has_yogurt": true,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Batata-doce com ovos, ricota e espinafre",
+    "subtitle": "Um jantar de frigideira para alternar as proteínas",
+    "category": "Jantar",
+    "time": "20 min, com batata cozida",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade do preparo: 180 g de batata-doce já cozida, 2 ovos, 40 g de ricota e metade dos legumes.",
+    "ingredients": [
+      [
+        "Batata-doce cozida em cubos",
+        "360 g"
+      ],
+      [
+        "Ovos sem casca",
+        "200 g / 4 unidades"
+      ],
+      [
+        "Ricota pasteurizada",
+        "80 g"
+      ],
+      [
+        "Espinafre cru",
+        "160 g"
+      ],
+      [
+        "Tomate",
+        "140 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Azeite total",
+        "10 ml"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ],
+      [
+        "Orégano",
+        "0,5 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Doure a batata",
+        "Aqueça 5 ml do azeite em frigideira antiaderente e doure a batata já cozida por 6-8 min. Reserve."
+      ],
+      [
+        "Refogue os legumes",
+        "Na mesma frigideira, acrescente os 5 ml de azeite restantes. Refogue cebola por 2 min, junte tomate e espinafre e cozinhe até murchar e reduzir o excesso de água."
+      ],
+      [
+        "Junte os ovos",
+        "Bata os ovos com sal e orégano. Coloque sobre os legumes e mexa em fogo baixo. Acrescente a ricota esfarelada e cozinhe até ficar firme, sem partes líquidas; referência de 71 °C no centro."
+      ],
+      [
+        "Sirva",
+        "Divida a batata, os ovos e os legumes em duas partes iguais. Para meal prep, deixe a base pronta e faça os ovos perto da hora de comer."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; use frigideira larga antiaderente."
+      ],
+      [
+        "Airfryer ou forno + fogão",
+        "Só a batata já cozida: airfryer a 190 °C por 8-12 min ou forno a 210 °C por 15-20 min, com metade do azeite. Faça ovos e legumes na frigideira."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Parcialmente. Congele a batata e os legumes já refogados, sem ovos e ricota, por até 30 dias, por qualidade. Faça os ovos com a ricota na hora.",
+    "thaw": "Descongele a base na geladeira e aqueça até 74 °C. Prepare os ovos e a ricota conforme o passo 3. Se guardar a receita pronta só na geladeira, reaqueça a porção até 74 °C.",
+    "tip": "A opção com ovos ajuda a variar o jantar sem depender sempre de frango ou carne. Para congelar a base, separe os legumes antes de acrescentar os ovos.",
+    "allergens": "Ovo e leite.",
+    "equipment": "Frigideira antiaderente; tigela; espátula; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "partial",
+    "image": "assets/photos/45.webp",
+    "thumbnail": "assets/photos/45-small.webp",
+    "active_minutes": 20,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Airfryer",
+      "Forno"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Caldo de macaxeira com frango e couve",
+    "subtitle": "Cremoso com a própria raiz, sem precisar de creme de leite",
+    "category": "Jantar",
+    "time": "25 min, com bases cozidas",
+    "yield_text": "2 porções de jantar",
+    "serving": "Divida o caldo pronto em 2 porções iguais. Cada metade contém 150 g de macaxeira e 100 g de frango, ambos pesados já cozidos.",
+    "ingredients": [
+      [
+        "Macaxeira de mesa cozida e escorrida",
+        "300 g"
+      ],
+      [
+        "Frango cozido e desfiado",
+        "200 g"
+      ],
+      [
+        "Couve crua sem talos grossos",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Água potável nova para o caldo",
+        "600-800 ml"
+      ],
+      [
+        "Azeite",
+        "10 ml"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Faça a base",
+        "Retire os fios centrais duros da macaxeira já cozida. Amasse com garfo ou mixer, fora do fogo, junto com 300 ml da água da receita."
+      ],
+      [
+        "Refogue",
+        "Em panela, refogue cebola e alho no azeite por 2-3 min. Junte a macaxeira amassada e mais 300 ml de água."
+      ],
+      [
+        "Complete o caldo",
+        "Acrescente o frango e cozinhe por 5-8 min, mexendo para não grudar. Ajuste com até 200 ml de água se necessário. Junte a couve fatiada e cozinhe por mais 3-4 min, até tudo estar bem quente, a pelo menos 74 °C."
+      ],
+      [
+        "Porcione",
+        "Ajuste o sal e finalize com cheiro-verde. Misture bem e distribua todo o caldo em dois potes ou pratos fundos, com a mesma quantidade de frango em cada um."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal. Um amassador ou garfo substitui o mixer."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar o caldo. Reaqueça na panela ou no micro-ondas em recipiente próprio."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele em 2 potes de uma refeição, deixando espaço para expansão, por até 30 dias, por qualidade. Identifique a data.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "A macaxeira entra já cozida e escorrida. Para o caldo, use água potável nova; não aproveite a água usada para cozinhar a raiz.",
+    "allergens": "Confira os rótulos dos ingredientes e temperos utilizados.",
+    "equipment": "Panela; garfo ou amassador; mixer opcional; potes; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/46.webp",
+    "thumbnail": "assets/photos/46-small.webp",
+    "active_minutes": 25,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Liquidificador"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Creme de abóbora e batata-doce com carne",
+    "subtitle": "Carne moída por cima e um caldo encorpado de legumes",
+    "category": "Jantar",
+    "time": "40 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade do creme e metade da carne. A lista usa 150 g de carne crua e 100 g de batata-doce crua por refeição, além da abóbora.",
+    "ingredients": [
+      [
+        "Abóbora cabotiá crua, limpa",
+        "400 g"
+      ],
+      [
+        "Batata-doce crua, limpa",
+        "200 g"
+      ],
+      [
+        "Patinho moído cru",
+        "300 g"
+      ],
+      [
+        "Cebola",
+        "80 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Água",
+        "600-800 ml"
+      ],
+      [
+        "Azeite total",
+        "10 ml"
+      ],
+      [
+        "Cominho",
+        "0,5 g"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Cozinhe a base",
+        "Corte abóbora e batata-doce em cubos pequenos. Refogue metade da cebola e do alho em 5 ml de azeite, acrescente os tubérculos e 600 ml de água. Cozinhe parcialmente tampado por 18-25 min, até tudo amaciar."
+      ],
+      [
+        "Prepare a carne",
+        "Em outra panela, refogue o restante da cebola e do alho nos 5 ml de azeite restantes. Junte a carne e o cominho. Cozinhe, desfazendo os grumos, até atingir pelo menos 71 °C."
+      ],
+      [
+        "Faça o creme",
+        "Desligue o fogo e amasse os legumes ou use mixer dentro da panela. Volte ao fogo, ajuste o sal e, se necessário, acrescente até 200 ml de água. Cozinhe por mais 3-5 min."
+      ],
+      [
+        "Monte",
+        "Divida todo o creme entre duas tigelas e coloque metade da carne sobre cada uma. Finalize com cheiro-verde. Para congelar, pode guardar o creme e a carne juntos."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Duas panelas; mixer opcional, sempre com a panela fora do fogo ao bater."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para o creme. A receita completa é mais prática no fogão."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele creme e carne em 2 potes individuais, com espaço para expansão, por até 30 dias, por qualidade.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "A batata-doce complementa a base da sopa; não é necessário acrescentar farinha para engrossar.",
+    "allergens": "Confira os rótulos dos ingredientes e temperos utilizados.",
+    "equipment": "Duas panelas; amassador ou mixer; espátula; potes; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/47.webp",
+    "thumbnail": "assets/photos/47-small.webp",
+    "active_minutes": 40,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Liquidificador"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Sopa de frango, legumes e macarrão integral",
+    "subtitle": "Um prato de panela com caldo caseiro e massa na medida",
+    "category": "Jantar",
+    "time": "35 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade da panela, incluindo frango, massa, legumes e caldo. A lista corresponde a 150 g de frango cru e 35 g de massa seca por refeição.",
+    "ingredients": [
+      [
+        "Peito de frango cru em cubos",
+        "300 g"
+      ],
+      [
+        "Macarrão integral seco, formato pequeno",
+        "70 g"
+      ],
+      [
+        "Cenoura crua",
+        "100 g"
+      ],
+      [
+        "Abobrinha crua",
+        "140 g"
+      ],
+      [
+        "Tomate",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Água",
+        "700-900 ml"
+      ],
+      [
+        "Azeite",
+        "10 ml"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Refogue",
+        "Aqueça o azeite em panela larga. Refogue cebola e alho por 2 min. Acrescente o frango em cubos de 1,5 cm e cozinhe por 4-5 min, mexendo."
+      ],
+      [
+        "Faça o caldo",
+        "Junte cenoura em cubos, tomate e 700 ml de água. Cozinhe por cerca de 10 min após ferver. Verifique o frango: ele deve atingir pelo menos 74 °C no centro."
+      ],
+      [
+        "Cozinhe a massa",
+        "Junte o macarrão e a abobrinha em cubos. Cozinhe pelo tempo indicado na embalagem, até a massa estar cozida. Ajuste com até 200 ml de água se necessário e adicione o sal."
+      ],
+      [
+        "Sirva",
+        "Finalize com cheiro-verde e divida em duas porções, distribuindo frango e massa de forma igual. O macarrão continua absorvendo caldo depois de pronto."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; o frango cozinha no próprio caldo."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para esta sopa. Para reaquecer, prefira panela ou micro-ondas."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim, por até 30 dias, por qualidade, em 2 potes com espaço para expansão. A massa ficará mais macia e pode absorver parte do caldo.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "Para textura de massa mais firme, pode congelar a base sem o macarrão e cozinhar 35 g de massa seca por porção somente no consumo.",
+    "allergens": "Trigo/glúten; verificar ovo e outros alérgenos no rótulo da massa.",
+    "equipment": "Panela; faca; termômetro culinário; colher; potes; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/49.webp",
+    "thumbnail": "assets/photos/49-small.webp",
+    "active_minutes": 35,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Caldo de feijão com carne desfiada e couve",
+    "subtitle": "Feijão e carne já prontos ganham um novo uso",
+    "category": "Jantar",
+    "time": "25 min, com bases cozidas",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade da panela: 200 g de feijão cozido e escorrido e 90 g de carne já cozida por porção, mais couve e caldo.",
+    "ingredients": [
+      [
+        "Feijão cozido e escorrido, sem sal",
+        "400 g"
+      ],
+      [
+        "Carne bovina magra cozida e desfiada",
+        "180 g"
+      ],
+      [
+        "Couve crua sem talos grossos",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Água",
+        "500-700 ml"
+      ],
+      [
+        "Azeite",
+        "10 ml"
+      ],
+      [
+        "Cominho",
+        "0,5 g"
+      ],
+      [
+        "Cheiro-verde",
+        "5 g"
+      ],
+      [
+        "Sal total",
+        "até 1 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Amasse o feijão",
+        "Amasse o feijão cozido com garfo e 250 ml da água da receita. Para um caldo mais liso, use mixer com a panela fora do fogo."
+      ],
+      [
+        "Refogue",
+        "Refogue cebola e alho no azeite por 2-3 min. Acrescente o feijão amassado, o cominho e mais 250 ml de água."
+      ],
+      [
+        "Complete",
+        "Junte a carne já cozida e cozinhe por 5-8 min, mexendo. Acrescente a couve e cozinhe por mais 3-4 min, até toda a mistura atingir pelo menos 74 °C. Ajuste a consistência com até 200 ml de água."
+      ],
+      [
+        "Finalize e divida",
+        "Ajuste o sal e o cheiro-verde. Divida o caldo em duas porções iguais, com carne e couve bem distribuídas. Se o feijão ou a carne já forem salgados, diminua o sal acrescentado."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; não precisa de panela de pressão com as bases já cozidas."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar o caldo. Reaqueça na panela ou no micro-ondas em recipiente próprio."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele em 2 potes de uma refeição por até 30 dias, por qualidade, deixando espaço para o caldo expandir.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "Use carne fresca magra cozida, como patinho, sem precisar incluir bacon ou linguiça. Os pesos do feijão e da carne são depois do cozimento.",
+    "allergens": "Confira os rótulos dos ingredientes e temperos utilizados.",
+    "equipment": "Panela; garfo ou amassador; mixer opcional; potes; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/50.webp",
+    "thumbnail": "assets/photos/50-small.webp",
+    "active_minutes": 25,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão",
+      "Liquidificador"
+    ],
+    "search_tags": [
+      "meal prep"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Caldo de frango com gengibre e macarrão",
+    "subtitle": "Inspiração asiática com espaguete fino comum",
+    "category": "Jantar",
+    "time": "35 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade da panela, com frango, massa e legumes por igual. Antes de cozinhar: 150 g de frango cru e 40 g de massa seca por jantar.",
+    "ingredients": [
+      [
+        "Peito de frango cru em tiras",
+        "300 g"
+      ],
+      [
+        "Espaguete fino seco, partido",
+        "80 g"
+      ],
+      [
+        "Repolho cru em tiras",
+        "160 g"
+      ],
+      [
+        "Cenoura crua",
+        "120 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Gengibre fresco",
+        "12 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Molho shoyu",
+        "20 ml"
+      ],
+      [
+        "Azeite ou óleo vegetal",
+        "10 ml"
+      ],
+      [
+        "Água",
+        "900-1100 ml"
+      ],
+      [
+        "Cebolinha",
+        "10 g"
+      ],
+      [
+        "Suco de limão",
+        "10 ml"
+      ]
+    ],
+    "steps": [
+      [
+        "Refogue os aromas",
+        "Rale o gengibre, pique alho e cebola e corte a cenoura em tiras finas. Refogue cebola, alho e gengibre no azeite por 2 min em panela larga."
+      ],
+      [
+        "Cozinhe o frango",
+        "Junte o frango e mexa por 3-4 min. Acrescente 900 ml de água e a cenoura. Ferva por 8-10 min, até o frango atingir 74 °C no centro."
+      ],
+      [
+        "Junte a massa",
+        "Acrescente espaguete, repolho e shoyu. Cozinhe pelo tempo da embalagem, até a massa estar cozida. Se necessário, use até 200 ml de água adicional."
+      ],
+      [
+        "Finalize",
+        "Desligue e junte limão e cebolinha. O shoyu já tempera o caldo; prove antes de acrescentar sal. Divida sólidos e caldo em duas porções iguais."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, em uma panela. Use espaguete fino comum partido ao meio."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar o caldo. Para reaquecer, use panela ou micro-ondas em recipiente próprio."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Parcialmente. Congele a base com frango e legumes, sem a massa, por até 30 dias, por qualidade. Separe em 2 potes e deixe espaço para expansão.",
+    "thaw": "Descongele a base na geladeira e use em até 24 h. Ferva o caldo, aqueça o frango a 74 °C e cozinhe 40 g de massa seca por porção. Finalize com limão e cebolinha.",
+    "tip": "Gengibre, shoyu e cebolinha formam o perfil de sabor. A receita usa massa comum de supermercado.",
+    "allergens": "Trigo/glúten e soja; conferir ovo no rótulo da massa.",
+    "equipment": "Panela larga; faca; ralador; colher; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "partial",
+    "image": "assets/photos/51.webp",
+    "thumbnail": "assets/photos/51-small.webp",
+    "active_minutes": 35,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "search_tags": [
+      "meal prep",
+      "asiático",
+      "caldo"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Caldo de peixe com coco, limão e coentro",
+    "subtitle": "Inspiração do Sudeste Asiático com ingredientes da nossa cozinha",
+    "category": "Jantar",
+    "time": "35 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade do preparo, com peixe e legumes por igual. Antes de cozinhar: 160 g de peixe cru e 100 g de batata-doce crua por jantar.",
+    "ingredients": [
+      [
+        "Filé de pescada ou tilápia cru",
+        "320 g"
+      ],
+      [
+        "Batata-doce crua, limpa",
+        "200 g"
+      ],
+      [
+        "Pimentão",
+        "150 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Gengibre fresco",
+        "10 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Leite de coco culinário integral",
+        "120 ml"
+      ],
+      [
+        "Suco de limão",
+        "20 ml"
+      ],
+      [
+        "Coentro",
+        "8 g"
+      ],
+      [
+        "Água",
+        "650-850 ml"
+      ],
+      [
+        "Azeite",
+        "5 ml"
+      ],
+      [
+        "Sal total",
+        "até 0,8 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare a base",
+        "Corte a batata em cubos de 1 cm e o pimentão em tiras. Refogue cebola, alho e gengibre no azeite por 2 min. Junte batata, pimentão e 650 ml de água."
+      ],
+      [
+        "Cozinhe os legumes",
+        "Ferva suavemente por 12-15 min, até a batata ficar macia. Ajuste a consistência com até 200 ml de água adicional."
+      ],
+      [
+        "Acrescente o peixe",
+        "Junte leite de coco, sal e o peixe em pedaços de 3 cm. Cozinhe em fervura suave por 5-8 min, até o peixe atingir 63 °C. Mexa com cuidado para não desmanchar."
+      ],
+      [
+        "Finalize e divida",
+        "Desligue o fogo e misture limão e coentro. Divida peixe, legumes e caldo igualmente entre dois pratos fundos."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal. Acrescente o peixe apenas depois de amaciar a batata."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar este caldo. O peixe cozinha diretamente no líquido."
+      ]
+    ],
+    "storage": "Até 2 dias a 4 °C ou menos, após resfriamento rápido e em pote fechado.",
+    "freeze": "Sim, já cozido, por até 30 dias, por qualidade, em 2 potes com espaço para expansão. O leite de coco pode separar; misture suavemente ao aquecer.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "Limão, gengibre, coco e coentro dão o sabor. Use pescada ou tilápia sem espinhas, conforme encontrar.",
+    "allergens": "Peixe; conferir o rótulo do leite de coco.",
+    "equipment": "Panela; faca; colher; termômetro culinário; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/52.webp",
+    "thumbnail": "assets/photos/52-small.webp",
+    "active_minutes": 35,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "search_tags": [
+      "meal prep",
+      "asiático",
+      "caldo"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Caldo de carne com gengibre e repolho",
+    "subtitle": "Batata, tiras de carne e um caldo temperado com shoyu",
+    "category": "Jantar",
+    "time": "35 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade do caldo com os sólidos por igual. Antes do preparo: 150 g de carne crua e 140 g de batata crua por jantar.",
+    "ingredients": [
+      [
+        "Carne bovina magra crua em tiras finas",
+        "300 g"
+      ],
+      [
+        "Batata crua, limpa",
+        "280 g"
+      ],
+      [
+        "Repolho cru em tiras",
+        "160 g"
+      ],
+      [
+        "Cenoura crua",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Gengibre fresco",
+        "10 g"
+      ],
+      [
+        "Alho",
+        "6 g"
+      ],
+      [
+        "Molho shoyu",
+        "15 ml"
+      ],
+      [
+        "Azeite ou óleo vegetal",
+        "10 ml"
+      ],
+      [
+        "Água",
+        "700-900 ml"
+      ],
+      [
+        "Cebolinha",
+        "8 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Sele a carne",
+        "Corte a carne em tiras bem finas. Aqueça metade do azeite e doure por 2-3 min. Reserve em prato limpo; o cozimento será concluído no caldo."
+      ],
+      [
+        "Cozinhe a base",
+        "Na mesma panela, refogue cebola, alho e gengibre no azeite restante. Junte batata e cenoura em cubos de 1 cm e 700 ml de água. Cozinhe por 12-15 min, até amaciar."
+      ],
+      [
+        "Complete o caldo",
+        "Junte repolho, shoyu e a carne com os sucos do prato. Cozinhe por 4-6 min, até a carne estar cozida e toda a mistura atingir 74 °C. Ajuste com até 200 ml de água, se precisar."
+      ],
+      [
+        "Finalize",
+        "Acrescente cebolinha, prove o tempero e divida em duas porções iguais. Corte a carne contra as fibras para facilitar a mastigação."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal; uma panela larga é suficiente. As tiras finas cozinham rapidamente."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar o caldo. A finalização da carne é feita no líquido."
+      ]
+    ],
+    "storage": "Até 3 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele em 2 potes individuais, com espaço para expansão, por até 30 dias, por qualidade. Repolho e batata ficam mais macios depois.",
+    "thaw": "Descongele uma porção na geladeira e consuma em até 24 h. Aqueça na panela, mexendo, até ferver por completo e atingir pelo menos 74 °C. Ajuste com um pouco de água se engrossar.",
+    "tip": "Use patinho ou alcatra limpos e em tiras finas. O gengibre pode ser ralado e congelado em pequenas porções.",
+    "allergens": "Soja e possível trigo/glúten no shoyu; verificar o rótulo.",
+    "equipment": "Panela larga; faca; ralador; prato; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/53.webp",
+    "thumbnail": "assets/photos/53-small.webp",
+    "active_minutes": 35,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "search_tags": [
+      "meal prep",
+      "asiático",
+      "caldo"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Caldo fino de camarão",
+    "subtitle": "Gengibre, limão e legumes em uma versão de inspiração asiática",
+    "category": "Jantar",
+    "time": "30 min",
+    "yield_text": "2 porções de jantar",
+    "serving": "Metade da panela, dividindo camarões e legumes igualmente. Antes de cozinhar: 160 g de camarão cru já limpo por jantar.",
+    "ingredients": [
+      [
+        "Camarão cru, sem casca e limpo",
+        "320 g"
+      ],
+      [
+        "Repolho cru em tiras finas",
+        "120 g"
+      ],
+      [
+        "Cenoura crua em tiras finas",
+        "100 g"
+      ],
+      [
+        "Cebola",
+        "60 g"
+      ],
+      [
+        "Gengibre fresco",
+        "10 g"
+      ],
+      [
+        "Alho",
+        "4 g"
+      ],
+      [
+        "Molho shoyu",
+        "15 ml"
+      ],
+      [
+        "Azeite ou óleo vegetal",
+        "5 ml"
+      ],
+      [
+        "Água",
+        "800-1000 ml"
+      ],
+      [
+        "Suco de limão",
+        "15 ml"
+      ],
+      [
+        "Cebolinha",
+        "8 g"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare os ingredientes",
+        "Use camarão cru, descascado e sem o intestino. Se congelado, descongele na geladeira. Pese 320 g já limpos. Pique cebola e alho e rale o gengibre."
+      ],
+      [
+        "Faça o caldo fino",
+        "Refogue cebola, alho e gengibre no azeite por 2 min. Junte 800 ml de água, cenoura e shoyu. Cozinhe por 6-8 min. Acrescente o repolho e cozinhe por mais 2 min."
+      ],
+      [
+        "Cozinhe os camarões",
+        "Junte os camarões ao caldo em fervura suave. Cozinhe por cerca de 3-5 min, conforme o tamanho, até ficarem firmes e opacos e atingirem 63 °C. O tempo é uma estimativa."
+      ],
+      [
+        "Finalize e divida",
+        "Desligue e junte limão e cebolinha. Se desejar mais líquido, acrescente até 200 ml de água quente. Prove antes de acrescentar sal. Divida caldo, camarões e legumes em duas porções."
+      ]
+    ],
+    "methods": [
+      [
+        "Fogão",
+        "Método principal, em uma panela. Os legumes ficam em tiras e o caldo mantém a consistência líquida."
+      ],
+      [
+        "Forno / airfryer",
+        "Não indicados para preparar este caldo. Camarões e legumes cozinham diretamente no líquido."
+      ]
+    ],
+    "storage": "Até 2 dias em pote fechado a 4 °C ou menos, após resfriamento rápido.",
+    "freeze": "Sim. Congele o caldo pronto em 2 potes individuais, com espaço para expansão, por até 30 dias, por qualidade. O camarão pode ficar mais firme após reaquecer.",
+    "thaw": "Descongele uma porção na geladeira e use em até 24 h. Aqueça na panela até ferver por completo e atingir 74 °C. Sirva assim que atingir a temperatura, evitando prolongar o cozimento.",
+    "tip": "Pese o camarão já limpo e descascado. Mantenha os legumes em tiras, sem bater, para preservar o caldo fino.",
+    "allergens": "Crustáceos e soja; possível trigo/glúten no shoyu. Confira os rótulos.",
+    "equipment": "Panela; faca; ralador; termômetro; balança",
+    "alternative_categories": [],
+    "base_portions": 2,
+    "freezer_status": "yes",
+    "image": "assets/photos/55.webp",
+    "thumbnail": "assets/photos/55-small.webp",
+    "active_minutes": 30,
+    "has_yogurt": false,
+    "has_gelatin": false,
+    "is_creami": false,
+    "equipment_tags": [
+      "Fogão"
+    ],
+    "search_tags": [
+      "meal prep",
+      "asiático",
+      "caldo"
+    ]
+  }
+]
+
